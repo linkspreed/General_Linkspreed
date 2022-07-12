@@ -8,16 +8,16 @@ Here you will find all the important information about Linkspreed 🧡 as a glob
 
 <img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coder"  width="550"/><br> 
   
-<p><strong>2nd year BCA student. During day, Assisting
-<br>my father at his shop & Coder at night.
+<p><strong>Linkspreed and co.
+<br>Everything at a glance
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=linkspreed&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinkspreed&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![twitter badge](https://img.shields.io/badge/linkspreed-grey?style=flat&logo=twitter)](https://twitter.com/linkspreed) <br>
 </div>
 
 <hr></hr>
