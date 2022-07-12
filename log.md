@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 12.07.2022 (update announcement)
+ - The new version has been released for **Ples**. Version 2.2.3 is now available live.
+
+### 12.07.2022 (update announcement)
+ - The new version has been released for **Shortcut**. Version 2.2.3 is now available live.
+
+### 12.07.2022 (update announcement)
+ - The new version has been released for **Showit**. Version 2.2.3 is now available live.
+
+### 12.07.2022 (update announcement)
+ - The new version has been released for **Streamvalley**. Version 2.2.3 is now available live.
+
 ### 12.07.2022 Streamvalley/Showit/Shortcut/Ples v2.2.3 (Changelog Update)
  - ADDED quailty selector to embed video system.
  - FIXED videos playing twice in background.
