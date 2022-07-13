@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 13.07.2022 (announcement LinkLab)
+ - The email (SMTP) configurations now work properly
+
+### 13.07.2022 (announcement LinkLab)
  - We have improved and expanded the **Linklab** cookie banner.
 
 ### 13.07.2022 (announcement LinkLab)
