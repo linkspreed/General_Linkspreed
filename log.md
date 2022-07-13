@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 13.07.2022 (announcement LinkLab)
+ - We will soon create a Github repository for Linklab and introduce you to the platform before the official release.
+
+### 13.07.2022 (announcement LinkLab)
  - The email (SMTP) configurations now work properly
 
 ### 13.07.2022 (announcement LinkLab)
