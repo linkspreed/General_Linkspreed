@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 13.07.2022 (announcement LinkLab)
+ - LinkLab now also has a Free Unlimited Plan. Use the functions free of charge and unlimited.
+
 ### 13.07.2022 (announcement)
  - We are currently working on **Linklab** - a new and powerful platform from Linkspreed
 
