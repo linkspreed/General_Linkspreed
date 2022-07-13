@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 13.07.2022 (announcement)
+ - We are currently working on **Linklab** - a new and powerful platform from Linkspreed
+
 ### 12.07.2022 (update announcement)
  - The new version has been released for **Ples**. Version 2.2.3 is now available live.
 
