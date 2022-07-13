@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 13.07.2022 (Bug on ForJu/Seedspreed fixed)
+ - We successfully fixed an issue on ForJu and Seedspreed with the favicon.
+
 ### 13.07.2022 (Work progress)
  - We're currently working on our Podcast solutions...
 
