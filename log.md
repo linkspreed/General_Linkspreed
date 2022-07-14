@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...#
 
 ### 14.07.2022 (announcement Podhub)
+ - Now Podhub is also using Cloudflare's technology
+
+### 14.07.2022 (announcement Podhub)
  - A clean and very simple logo/icon for Podhub
  - https://podhub.cf/storage/215035924icon.png
 
