@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...#
 
+### 14.07.2022 (announcement Podhub)
+ - We are actively working on Podhub.
+
 ### 14.07.2022 (announcement)
  - Poddy will remain online as it is - as we continue to build Podhub and improve the world of podcasts
 
