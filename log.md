@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 14.07.2022 (announcement Kitchat UPDATE)
+ - **Kitchat** was successfully updated to version 3.5
+
 ### 14.07.2022 (announcement Kitchat SOLVED)
  - All buttons are working properly again on **Kitchat**.
 
