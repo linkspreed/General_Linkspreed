@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 14.07.2022 (Github)
+ - We will now finalize the github repository for Seedspreed...
+
 ### 14.07.2022 (Bug on ForJu/Seedspreed fixed)
  - We successfully fixed an issue on ForJu and Seedspreed with the favicon.
 
