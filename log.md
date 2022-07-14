@@ -2,6 +2,23 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 14.07.2022 Kitchat v3.5 (Social Network)
+ - USER SELECT PRODUCT CURRENCY
+ - SECURIONPAY PAYMENT
+ - Using Composer
+ - COINBASE PAYMENT 
+ - CASHFREE PAYMENT
+ - RAZORPAY PAYMENT
+ - SEARCH BOX IN BLOGS MODULE
+ - HTML SUPPORT
+ - LIVE STREAMING FOR EVENTS
+ - LIVE STREAMING FOR PAGES
+ - LIVE STREAMING FOR GROUPS 
+ - REPORT CATEGORIES AND REPORT REASON
+ - ACTIVATION REQUIRED
+ - COPY POST LINK TO CLIPBOARD
+ - **AND MUCH MORE**
+
 ### 14.07.2022 (announcement Kitchat UPDATE)
  - **Kitchat** was successfully updated to version 3.5
 
