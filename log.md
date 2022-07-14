@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 07/12/2022 will appear here ...
+## All changes that we will make from 07/12/2022 will appear here ...#
+
+### 14.07.2022 (announcement)
+ - Poddy will remain online as it is - as we continue to build Podhub and improve the world of podcasts
 
 ### 14.07.2022 Kitchat v3.5 (Social Network)
  - USER SELECT PRODUCT CURRENCY
