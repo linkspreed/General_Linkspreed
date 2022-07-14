@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 14.07.2022 (announcement Kitchat)
+ - There is a problem with Kitchat. We will work on it and get the site working again soon.
+
+### 14.07.2022 (announcement Kitchat)
  - Kitchat now gets its own Github repository
 
 ### 14.07.2022 (announcement Kitchat)
