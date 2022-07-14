@@ -2,26 +2,28 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
-### 14.07.2022 (announcement Kitchat)
- - There is a problem with Kitchat. We will work on it and get the site working again soon.
+ - All buttons are working properly again on **Kitchat**.
 
 ### 14.07.2022 (announcement Kitchat)
- - Kitchat now gets its own Github repository
+ - There is a problem with **Kitchat**. We will work on it and get the site working again soon.
 
 ### 14.07.2022 (announcement Kitchat)
- - Kitchat now uses the Cloudflare infrastructure
+ - **Kitchat** now gets its own Github repository
+
+### 14.07.2022 (announcement Kitchat)
+ - **Kitchat** now uses the Cloudflare infrastructure
 
 ### 14.07.2022 (Github)
 https://github.com/linkspreed/Seedspreed
 
 ### 14.07.2022 (Github)
- - We will now finalize the github repository for Seedspreed...
+ - We will now finalize the github repository for **Seedspreed**...
 
 ### 14.07.2022 (Bug on ForJu/Seedspreed fixed)
- - We successfully fixed an issue on ForJu and Seedspreed with the favicon.
+ - We successfully fixed an issue on ForJu and **Seedspreed** with the favicon.
 
 ### 13.07.2022 (Bug on ForJu/Seedspreed fixed)
- - We successfully fixed an issue on ForJu and Seedspreed with the favicon.
+ - We successfully fixed an issue on ForJu and **Seedspreed** with the favicon.
 
 ### 13.07.2022 (Work progress)
  - We're currently working on our Podcast solutions...
