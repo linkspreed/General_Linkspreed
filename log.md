@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 14.07.2022 (announcement Kitchat)
+ - Kitchat now uses the Cloudflare infrastructure
+
 ### 14.07.2022 (Github)
 https://github.com/linkspreed/Seedspreed
 
