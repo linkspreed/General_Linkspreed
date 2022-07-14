@@ -2,9 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 14.07.2022 (announcement Kitchat SOLVED)
  - All buttons are working properly again on **Kitchat**.
 
-### 14.07.2022 (announcement Kitchat)
+### 14.07.2022 (announcement Kitchat BUG)
  - There is a problem with **Kitchat**. We will work on it and get the site working again soon.
 
 ### 14.07.2022 (announcement Kitchat)
