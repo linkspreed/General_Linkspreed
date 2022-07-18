@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 18.07.2022 (announcement LinkLab)
+ - The Github repository for LinkLab is ready.
+
+### 18.07.2022 (announcement LinkLab)
  - https://github.com/linkspreed/LinkLab
  - It's still in development
 
