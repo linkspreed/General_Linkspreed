@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 18.07.2022 (announcement Podhub)
+- Our podcast platform Podhub will also be getting its own Github repository in the next few days...
+
 ### 18.07.2022 (announcement)
  - We are also working diligently on new products.
 
