@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 18.07.2022 (announcement)
+ - We are also working diligently on new products.
+
+### 18.07.2022 (announcement)
  - We've been working a bit further on our new download page for our apps.
  - It is still in progress.
 
