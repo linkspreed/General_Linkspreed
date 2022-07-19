@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 19.07.2022 (announcement Datify)
+We're now implementing Cloudflare's capabilities in Datify.
+
 ### 19.07.2022 LinkLab v18.0.0 (Tool)
 - Implemented the new Blogging system.
     - All posts & categories are added to the sitemap.
