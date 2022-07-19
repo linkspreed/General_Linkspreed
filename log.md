@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 19.07.2022 (announcement Datify)
+ - We are planning to release a new update for Datify soon.
+
 ### 19.07.2022 (announcement)
  - In the coming weeks we are also planning a new mail marketing project.
 
