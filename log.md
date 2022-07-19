@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 19.07.2022 (announcement LinkLab)
+- We are working on an update for LinkLab.
+- Version 18.0.0 is coming soon.
+
 ### 19.07.2022 (announcement Podhub)
 - The Github repository is ready and successfully published here on Github.
 
