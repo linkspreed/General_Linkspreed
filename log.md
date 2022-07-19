@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 19.07.2022 (announcement LinkLab)
+ - A new version of Linklab has been released.
+ - Version 18.0.0 is now available.
+
+### 19.07.2022 (announcement LinkLab)
 - We are working on an update for LinkLab.
 - Version 18.0.0 is coming soon.
 
