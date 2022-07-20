@@ -3,7 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 20.07.2022 (announcement Datify)
-- If you log in to Datify for 1 minute per day, you will receive 100 credit points with which you can operate on the platform.
+- Create an account on **Datify** with **Google Login** super fast
+
+### 20.07.2022 (announcement Datify)
+- If you log in to **Datify** for 1 minute per day, you will receive 100 credit points with which you can operate on the platform.
 
 ### 20.07.2022 (announcement Datify)
 - **Datify** now also uses ffmpeg
