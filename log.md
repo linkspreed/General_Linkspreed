@@ -3,10 +3,13 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 20.07.2022 (announcement Datify)
-- We're now using Cloudflare's capabilities on Datify.
+- We're going to create a fresh repository for **Datify**.
+
+### 20.07.2022 (announcement Datify)
+- We're now using Cloudflare's capabilities on **Datify**.
 
 ### 19.07.2022 (announcement Datify)
-- We're now implementing Cloudflare's capabilities in Datify.
+- We're now implementing Cloudflare's capabilities in **Datify**.
 
 ### 19.07.2022 LinkLab v18.0.0 (Tool)
 - Implemented the new Blogging system.
@@ -32,23 +35,23 @@
  - Multiple other code cleanups, small improvements and bugfixes.
 
 ### 19.07.2022 (announcement Datify)
- - Datify is on Version 1.6.1.
+ - **Datify** is on Version 1.6.1.
 
 ### 19.07.2022 (announcement Datify)
- - Datify is on Version 1.6.
+ - **Datify** is on Version 1.6.
 
 ### 19.07.2022 (announcement Datify)
- - We are planning to release a new update for Datify soon.
+ - We are planning to release a new update for **Datify** soon.
 
 ### 19.07.2022 (announcement)
  - In the coming weeks we are also planning a new mail marketing project.
 
 ### 19.07.2022 (announcement LinkLab)
- - A new version of Linklab has been released.
+ - A new version of **Linklab** has been released.
  - Version 18.0.0 is now available.
 
 ### 19.07.2022 (announcement LinkLab)
-- We are working on an update for LinkLab.
+- We are working on an update for **LinkLab**.
 - Version 18.0.0 is coming soon.
 
 ### 19.07.2022 (announcement Podhub)
@@ -61,7 +64,7 @@
 - Many new platforms are in the processing phase
 
 ### 18.07.2022 (announcement Podhub)
-- Our podcast platform Podhub will also be getting its own Github repository in the next few days...
+- Our podcast platform **Podhub** will also be getting its own Github repository in the next few days...
 
 ### 18.07.2022 (announcement)
  - We are also working diligently on new products.
@@ -71,24 +74,24 @@
  - It is still in progress.
 
 ### 18.07.2022 (announcement LinkLab)
- - The Github repository for LinkLab is ready.
+ - The Github repository for **LinkLab** is ready.
 
 ### 18.07.2022 (announcement LinkLab)
  - https://github.com/linkspreed/LinkLab
  - It's still in development
 
 ### 18.07.2022 (announcement LinkLab)
- - Linklab now gets its own repository on Github
+ - **Linklab** now gets its own repository on Github
 
 ### 14.07.2022 (announcement Podhub)
- - Now Podhub is also using Cloudflare's technology
+ - Now **Podhub** is also using Cloudflare's technology
 
 ### 14.07.2022 (announcement Podhub)
- - A clean and very simple logo/icon for Podhub
+ - A clean and very simple logo/icon for **Podhub**
  - https://podhub.cf/storage/215035924icon.png
 
 ### 14.07.2022 (announcement Podhub)
- - We are actively working on Podhub.
+ - We are actively working on **Podhub**.
 
 ### 14.07.2022 (announcement)
  - Poddy will remain online as it is - as we continue to build Podhub and improve the world of podcasts
