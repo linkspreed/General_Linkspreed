@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 20.07.2022 (announcement Datify)
+- We have increased the limit of 5000 friends on **Datify** to 500000 friends.
+
 ### 20.07.2022 (announcement LinkLab)
 - Soon we will finish the development of the Android app for **LinkLab**.
 
