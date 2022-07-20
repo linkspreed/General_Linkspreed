@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 20.07.2022 (announcement Datify)
+- **Datify** is the first dating platform that allows you to like 5M users per day
+
+### 20.07.2022 (announcement Datify)
 - We have increased the limit of 5000 friends on **Datify** to 500000 friends.
 
 ### 20.07.2022 (announcement LinkLab)
