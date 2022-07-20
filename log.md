@@ -3,7 +3,7 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 20.07.2022 (announcement Datify)
-- Datify now also uses ffmpeg
+- **Datify** now also uses ffmpeg
 
 ### 20.07.2022 (announcement Datify)
 - **Datify** is the first dating platform that allows you to like 5M users per day
