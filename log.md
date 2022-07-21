@@ -2,7 +2,13 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
-### 20.07.2022 (announcement Datify)
+### 21.07.2022 (announcement Datify)
+- The repository for **Datify** has been published successfully.
+
+### 21.07.2022 (announcement Datify)
+- https://github.com/linkspreed/Datify
+
+### 21.07.2022 (announcement Datify)
 - We will soon finish our work on datify's Github repository.
 
 ### 20.07.2022 (announcement Datify)
