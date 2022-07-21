@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 21.07.2022 (announcement Musiccloud)
+- We created a new logo for **Musiccloud**
+- https://musiccloud.cf/themes/soundify/img/logo-white.png
+
 ### 21.07.2022 (announcement Analytix/Snippite)
 - https://github.com/linkspreed/Analytix/blob/main/changelog.md
 - https://github.com/linkspreed/Snippite/blob/main/changelog.md
