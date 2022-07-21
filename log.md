@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 20.07.2022 (announcement Datify)
+- We will soon finish our work on datify's Github repository.
+
+### 20.07.2022 (announcement Datify)
 - Create an account on **Datify** with **Google Login** super fast
 
 ### 20.07.2022 (announcement Datify)
