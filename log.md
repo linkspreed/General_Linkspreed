@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 21.07.2022 (announcement Analytix/Snippite)
+- https://github.com/linkspreed/Analytix/blob/main/changelog.md
+- https://github.com/linkspreed/Snippite/blob/main/changelog.md
+
 ### 21.07.2022 (announcement Analytix)
  - The new version 3.3.0 is publicly freely available on **Analytix**. The changes are all in the changelog.
 
