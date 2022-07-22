@@ -2,11 +2,14 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 22.07.2022 (announcement SnapLink)
+- We released a new update (version 4.6.0) for **SnapLink**.
+
 ### 22.07.2022 SnapLink v4.6.0 (Tool)
- - Improved adding new custom Domains process: URL protocol is no longer required
- - Fixed an issue preventing shortening Deep Links when Google Safe Browsing was enabled
- - Fixed the Webhook fields not being saved
- - Other minor improvements
+- Improved adding new custom Domains process: URL protocol is no longer required
+- Fixed an issue preventing shortening Deep Links when Google Safe Browsing was enabled
+- Fixed the Webhook fields not being saved
+- Other minor improvements
 
 ### 22.07.2022 (announcement SnapLink)
 We will release a new update (version 4.6.0) for **SnapLink**.
