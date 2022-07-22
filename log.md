@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 22.07.2022 (announcement)
+- We're going to make some significant changes to Snaplink to significantly improve the user experience.
+
+### 22.07.2022 (announcement)
 - We are working on a new and cool update.
 
 ### 21.07.2022 (announcement Datify)
