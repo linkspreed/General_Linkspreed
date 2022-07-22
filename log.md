@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 22.07.2022 (announcement Ples)
+- Use the new #Ples invite system now
+
 ### 22.07.2022 (announcement SnapLink)
 - We released a new update (version 4.6.0) for **SnapLink**.
 
