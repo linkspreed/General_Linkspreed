@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 23.07.2022 (announcement Linkspreed Photos)
+- We're working a little bit on Linkspreed Photos
+
 ### 23.07.2022 (announcement Upnode)
 - The repository for UpNode is ready and available here on Github.
 
