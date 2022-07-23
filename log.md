@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 23.07.2022 (announcement Upnode)
+- Upnode works fine
+
+### 23.07.2022 (announcement Upnode)
 - Now that Upnode has been online for a few weeks, we now want to do a final check on its functionality.
 
 ### 22.07.2022 (announcement Ples)
