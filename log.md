@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 23.07.2022 (announcement Upnode)
+- https://github.com/linkspreed/UpNode
+
+### 23.07.2022 (announcement Upnode)
 - Upnode now gets its own Github repository
 
 ### 23.07.2022 (announcement Upnode)
