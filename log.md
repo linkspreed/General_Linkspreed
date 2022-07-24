@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 24.07.2022 (announcement Linkspreed Photos)
+- **Linkspreed Photos** gets its own Github repository.
+
 ### 24.07.2022 (announcement UpDown)
 - We're going to relaunch **UpDown** very soon.
 
