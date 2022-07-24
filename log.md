@@ -2,26 +2,29 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
-### 23.07.2022 (announcement Linkspreed Photos)
-- Linkspreed Photos got a new icon/logo.
+### 24.07.2022 (announcement Twig)
+- We are working on an Android app for **Twig**.
 
 ### 23.07.2022 (announcement Linkspreed Photos)
-- We're working a little bit on Linkspreed Photos
+- **Linkspreed Photos** got a new icon/logo.
+
+### 23.07.2022 (announcement Linkspreed Photos)
+- We're working a little bit on **Linkspreed Photos**
 
 ### 23.07.2022 (announcement Upnode)
-- The repository for UpNode is ready and available here on Github.
+- The repository for **UpNode** is ready and available here on Github.
 
 ### 23.07.2022 (announcement Upnode)
 - https://github.com/linkspreed/UpNode
 
 ### 23.07.2022 (announcement Upnode)
-- Upnode now gets its own Github repository
+- **Upnode** now gets its own Github repository
 
 ### 23.07.2022 (announcement Upnode)
-- Upnode works fine
+- **Upnode** works fine
 
 ### 23.07.2022 (announcement Upnode)
-- Now that Upnode has been online for a few weeks, we now want to do a final check on its functionality.
+- Now that **UpNode** has been online for a few weeks, we now want to do a final check on its functionality.
 
 ### 22.07.2022 (announcement Ples)
 - Use the new #Ples invite system now
