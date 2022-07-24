@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 24.07.2022 (announcement Twig)
+- The new Twig app will offer you a great alternative to conventional search engines.
+
+### 24.07.2022 (announcement Twig)
 - We are working on an Android app for **Twig**.
 
 ### 23.07.2022 (announcement Linkspreed Photos)
