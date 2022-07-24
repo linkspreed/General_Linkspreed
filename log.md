@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 24.07.2022 (announcement Linkspreed Photos)
+- The github repo for **Linkspreed Photos** has been published here on Github.
+
+### 24.07.2022 (announcement Linkspreed Photos)
 - https://github.com/linkspreed/Linkspreed_Photos
 
 ### 24.07.2022 (announcement Linkspreed Photos)
