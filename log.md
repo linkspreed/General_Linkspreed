@@ -2,14 +2,17 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
-### 24.07.2022 (announcement Twig)
-- The Twig app is ready! We will publish it on 07/25/2022.
+### 24.07.2022 (announcement UpDown)
+- We're going to relaunch **UpDown** very soon.
 
 ### 24.07.2022 (announcement Twig)
-- The first version (v1.0) of the Twig Release APK is in progress.
+- The **Twig** app is ready! We will publish it on 07/25/2022.
 
 ### 24.07.2022 (announcement Twig)
-- The new Twig app will offer you a great alternative to conventional search engines.
+- The first version (v1.0) of the **Twig** Release APK is in progress.
+
+### 24.07.2022 (announcement Twig)
+- The new **Twig** app will offer you a great alternative to conventional search engines.
 
 ### 24.07.2022 (announcement Twig)
 - We are working on an Android app for **Twig**.
