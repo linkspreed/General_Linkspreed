@@ -4,7 +4,7 @@
 
 ### 25.07.2022 (announcement Pixly)
 - We are relaunching our image editor for the web - **Pixly**
-- 
+
 ### 24.07.2022 (announcement Linkspreed Photos)
 - The github repo for **Linkspreed Photos** has been published here on Github.
 
