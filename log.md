@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 25.07.2022 (announcement UpDown)
+- We are working hard on the new solution for **UpDown**.
+
 ### 25.07.2022 (announcement Pixly)
 - We are relaunching our image editor for the web - **Pixly**
 
