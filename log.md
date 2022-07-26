@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 26.07.2022 (announcement QRme)
+- **QRme** gets version 5.3.0 - https://qrme.cf
+
 ### 26.07.2022 (announcement UpDown)
 - We are working on UpDown - the SMTP server has been set up successfully.
 
