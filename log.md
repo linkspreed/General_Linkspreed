@@ -2,10 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
-### 25.07.2022 (announcement UpDown)
+### 26.07.2022 (announcement UpDown)
 - We are working on UpDown - the SMTP server has been set up successfully.
 
-### 25.07.2022 (announcement KitChat)
+### 26.07.2022 (announcement KitChat)
 - We are still slightly improving **KitChat**'s gift system.
 
 ### 25.07.2022 (announcement UpDown)
