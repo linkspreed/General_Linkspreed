@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 26.07.2022 (announcement QRme)
+- **QRme** is at version 5.3.0 🥳
+
+### 26.07.2022 (announcement QRme)
 - **QRme** is in relaunch mode.
 
 ### 26.07.2022 (announcement QRme)
