@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 27.07.2022 (announcement Rank)
+- We will release a new update (1.7.0) for **Rank**.
+
 ### 26.07.2022 (announcement)
 - We worked a bit on a new project.
 
