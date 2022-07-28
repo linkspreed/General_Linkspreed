@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 28.07.2022 (announcement Twig)
+- https://github.com/linkspreed/Twig/blob/main/APK/app-release.apk
+
 ### 28.07.2022 (announcement Rank)
 - **Rank** is on the new version v1.7.0
 
