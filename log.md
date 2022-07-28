@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 28.07.2022 (announcement Rank)
+- **Rank** is on the new version v1.7.0
+
 ### 28.07.2022 Rank v1.7.0 (SEO Tool)
  - Added new Tool: Word Density Counter
  - Added new Tool: Tag Remover
