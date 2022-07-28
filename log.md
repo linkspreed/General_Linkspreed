@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 28.07.2022 SnapLink v4.7.0 (Tool)
+ - Improved the cron jobs system
+ - Fixed the copy link button not working
+ - Other minor improvements
+
 ### 28.07.2022 (announcement SnapLink)
 - We released a new update (version 4.7.0) for **SnapLink**.
 
