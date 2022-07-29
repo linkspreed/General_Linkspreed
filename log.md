@@ -2,14 +2,23 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 29.07.2022 (announcement YourPod)
+- We will release an update in the near future for **YourPod**.
+
+### 29.07.2022 (announcement Musiccloud)
+- We will release an update in the near future for **Musiccloud**.
+
+### 29.07.2022 (announcement SoundChest)
+- We will release an update in the near future for **SoundChest**.
+
 ### 29.07.2022 (announcement Twig)
-- Or just use this link to download the Twig app.
+- Or just use this link to download the **Twig** app.
 - More options will follow in the next few days.
 - https://twig.cf/apk/twig_release_1.0.apk
 
 ### 29.07.2022 (announcement Twig)
 - https://github.com/linkspreed/Twig
-- Download the twig app NOW... 😍
+- Download the **Twig** app NOW... 😍
 
 ### 29.07.2022 (announcement Twig)
 - We now publish the **Twig** app on Github.
