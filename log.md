@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 29.07.2022 (announcement ForJu, Seedspreed)
+- We fixed a bug with the logos on **ForJu** and **Seedspreed** ✅
+
 ### 29.07.2022 (announcement YourPod)
 - We will release an update in the near future for **YourPod**.
 
