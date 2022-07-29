@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 29.07.2022 (announcement Twig)
+- https://github.com/linkspreed/Twig
+- Download the twig app NOW... 😍
+
+### 29.07.2022 (announcement Twig)
 - We now publish the **Twig** app on Github.
 
 ### 29.07.2022 (announcement new product)
