@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 30.07.2022 (announcement)
+- We already have some plans to launch a new vCard manager tomorrow. ☁️🥳
+
+### 30.07.2022 (announcement)
 - 🚀In the future, there will initially be these options for downloading an app from us:
   - ✅Github
   - ✅AppSpreed
