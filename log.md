@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 30.07.2022 (announcement Toolkit [API])
+- Toolkit should be free to use without an account - but an account is required for the API at the latest.
+
 ### 30.07.2022 (announcement Toolkit API)
 - https://toolkit.ga/api-documentation
 - The future API documentation for Toolkit.
