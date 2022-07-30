@@ -3,7 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 30.07.2022 (announcement Taya)
-- The Taya Github Repository has been completed successfully.
+- **Taya** is now using the entire Cloudflare system.
+
+### 30.07.2022 (announcement Taya)
+- The **Taya** Github Repository has been completed successfully.
 - https://github.com/linkspreed/Taya
 
 ### 30.07.2022 (announcement Taya)
