@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 30.07.2022 (announcement Toolkit)
+- We will now set up Toolkit on the server. 🥰
+
 ### 30.07.2022 (announcement)
 - In fact, we haven't looked into it that much yet, but we have the idea of developing our own Chromium-based browser. 😍🗓️
 
