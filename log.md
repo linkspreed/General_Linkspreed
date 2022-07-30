@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 30.07.2022 (announcement Taya)
+- **Taya** gets its own repo on Github.
+
+### 30.07.2022 (announcement Taya)
+- https://taya.cf/
+
 ### 30.07.2022 (announcement)
 - We already have some plans to launch a new vCard manager tomorrow. ☁️🥳
 
