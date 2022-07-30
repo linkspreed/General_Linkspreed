@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 30.07.2022 (announcement)
+- 🚀In the future, there will initially be these options for downloading an app from us:
+  - ✅Github
+  - ✅AppSpreed
+  - ✅LS store
+  - ✅app.[example.com]
+  - ✅various third party app stores
+
 ### 30.07.2022 (announcement Toolkit)
 - We added successfully **Toolkit** to the Cloudflare network.
 
