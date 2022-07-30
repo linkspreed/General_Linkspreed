@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 30.07.2022 (announcement Toolkit)
+- We added successfully **Toolkit** to the Cloudflare network.
+
+### 30.07.2022 (announcement Toolkit)
 - We are now adding **Toolkit** to the Cloudflare network.
 
 ### 30.07.2022 (announcement Toolkit [API])
