@@ -2,15 +2,18 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 30.07.2022 (announcement Toolkit)
+- We are now adding **Toolkit** to the Cloudflare network.
+
 ### 30.07.2022 (announcement Toolkit [API])
-- Toolkit should be free to use without an account - but an account is required for the API at the latest.
+- **Toolkit** should be free to use without an account - but an account is required for the API at the latest.
 
 ### 30.07.2022 (announcement Toolkit API)
 - https://toolkit.ga/api-documentation
-- The future API documentation for Toolkit.
+- The future API documentation for **Toolkit**.
 
 ### 30.07.2022 (announcement Toolkit)
-- We will now set up Toolkit on the server. 🥰
+- We will now set up **Toolkit** on the server. 🥰
 
 ### 30.07.2022 (announcement)
 - In fact, we haven't looked into it that much yet, but we have the idea of developing our own Chromium-based browser. 😍🗓️
