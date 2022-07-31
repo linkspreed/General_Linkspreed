@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 31.07.2022 (announcement Taya)
+- We are now developing an Android app for **Taya**.
+
 ### 31.07.2022 (announcement BeSave)
 - Our future bookmark app/website we are developing will be called **BeSave**. 🥳
 
