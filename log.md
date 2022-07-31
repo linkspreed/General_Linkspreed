@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 31.07.2022 (announcement Toolkit)
+- We are still working on **Toolkit**.
+
 ### 31.07.2022 (announcement)
 - We come up with new ideas for SaaS tools.
 
