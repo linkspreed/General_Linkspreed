@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 31.07.2022 (announcement Toolkit)
+- 😍 On Toolkit we test a new idea. Each user can store a personal code in the settings, which we then send by email. Then you can easily see whether it is a phishing email or not. 📧
+
+### 31.07.2022 (announcement Toolkit)
 - We are still working on **Toolkit**.
 
 ### 31.07.2022 (announcement)
