@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 04.08.2022 (announcement)
+- The code is already in launch mode but we won't make the site available online until tomorrow.
+
+### 04.08.2022 (announcement)
 - We will probably launch the vCard website today.
 
 ### 31.07.2022 (announcement Taya)
