@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 05.08.2022 (announcement)
+- We have a background project running - a simple website - where you can see all Linkspreed's github repositories at a glance. 
+- And thus in the future also all projects in general that Linkspreed owns.
+
+### 05.08.2022 (announcement)
 - We show interest in the future development of a forum cloud.
 - https://www.forem.com/cloud-waitlist
 
