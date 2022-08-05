@@ -2,8 +2,11 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 05.08.2022 (announcement Tizza)
+- We called the new vCard site **Tizza**.
+
 ### 05.08.2022 (announcement)
-The final preparations for the launch of the vCard platform are in progress.🚀
+- The final preparations for the launch of the vCard platform are in progress.🚀
 
 ### 05.08.2022 (announcement Toolkit)
 - We're working on a new update for **Toolkit** that will include many new features and tools.
