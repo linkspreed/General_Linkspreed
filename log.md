@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 05.08.2022 (announcement Toolkit)
+- We're working on a new update for **Toolkit** that will include many new features and tools.
+
 ### 04.08.2022 (announcement)
 - The code is already in launch mode but we won't make the site available online until tomorrow.
 
