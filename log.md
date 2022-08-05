@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 05.08.2022 (announcement Tizza)
+- The final changes to Tizza are still being made - 60 minutes left... ⚡️
+
 ### 05.08.2022 (announcement)
 - We have a background project running - a simple website - where you can see all Linkspreed's github repositories at a glance. 
 - And thus in the future also all projects in general that Linkspreed owns.
