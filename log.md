@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 05.08.2022 (announcement Tizza)
+- ✅ The servers and the domain are ready - the launch begins now. 
+- With the maintenance work, we need about 1-2 hours until the site can be used.
+
+### 05.08.2022 (announcement Tizza)
 - We called the new vCard site **Tizza**.
 
 ### 05.08.2022 (announcement)
