@@ -3,10 +3,14 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 05.08.2022 (announcement Tizza)
-- ✅ Google Login is now available on Tizza.
+- The new logo for **Tizza**.
+- https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png
 
 ### 05.08.2022 (announcement Tizza)
-- The final changes to Tizza are still being made - 60 minutes left... ⚡️
+- ✅ Google Login is now available on **Tizza**.
+
+### 05.08.2022 (announcement Tizza)
+- The final changes to **Tizza** are still being made - 60 minutes left... ⚡️
 
 ### 05.08.2022 (announcement)
 - We have a background project running - a simple website - where you can see all Linkspreed's github repositories at a glance. 
