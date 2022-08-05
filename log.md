@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 05.08.2022 (announcement Tizza)
+- CHECK IT OUT 🥳🥳🥳
+- https://tizza.tk/
+
+### 05.08.2022 (announcement Tizza)
 - The new logo for **Tizza**.
 - https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png
 
