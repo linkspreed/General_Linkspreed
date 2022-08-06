@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 06.08.2022 (announcement Toolkit)
+- 🥳 On **Toolkit**, guests and users of the Free Unlimited plan now get all available tools for free.
+
 ### 06.08.2022 (announcement Taya)
 - We continue to work on the android app for **Taya**.
 
