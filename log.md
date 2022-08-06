@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 06.08.2022 (announcement Twig)
+- Here is the new logo of **Twig**.
+- https://twig.cf/site/uploads/2022/May/28/twig_logo.png
+
 ### 06.08.2022 (announcement Toolkit)
 - All 59+ tools are now available for free on **Toolkit** - even without an account.
 
