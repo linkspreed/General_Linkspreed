@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 06.08.2022 (announcement SoundChest, Musiccloud, YourPod)
+- The Discussionpage is now available on Github for **SoundChest**, **Musiccloud** and **YourPod**.
+
+### 06.08.2022 (announcement SoundChest, Musiccloud, YourPod)
 - The **SoundChest**, **Musiccloud** and **YourPod** servers are ready ... the code is in the wings and the update is starting now. ☁️🚀
 
 ### 06.08.2022 (announcement SoundChest, Musiccloud, YourPod)
