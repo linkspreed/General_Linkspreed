@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 06.08.2022 (announcement)
+- It takes time but we are building a decentralized cloud... 😍🥳
+
+### 06.08.2022 (announcement)
 - Currently we're working on the profile page for Linkspreed - an external website with all github projects.
 
 ### 06.08.2022 (announcement Toolkit)
