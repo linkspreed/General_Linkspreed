@@ -1,5 +1,8 @@
 # The long log :)
 
+### 06.08.2022 (announcement Taya)
+- ✔️The work on the Android app for Taya is now complete. We will probably release the app tomorrow.
+
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 06.08.2022 (announcement Toolkit)
