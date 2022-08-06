@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 06.08.2022 (announcement SoundChest, Musiccloud, YourPod)
+- Today, 08/06/2022, we are releasing version 1.4.7 of:
+ - ✅ **SoundChest**
+ - ✅ **Musiccloud**
+ - ✅ **YourPod**
+
 ### 06.08.2022 (announcement)
 - It takes time but we are building a decentralized cloud... 😍🥳
 
