@@ -8,6 +8,9 @@
  - ✔️ Unlimited storage
 
 ### 07.08.2022 (announcement Web5)
+- https://web5.cf
+
+### 07.08.2022 (announcement Web5)
 - We continue to work on our decentralized cloud solution - **Web5**
 
 ### 07.08.2022 (announcement)
