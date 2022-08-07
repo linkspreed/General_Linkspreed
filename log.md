@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 07.08.2022 (announcement Grown)
+- We're launching the content for **Grown** today after the site has always served as a preview. ⚡️
+
 ### 07.08.2022 (announcement Tizza)
 - https://github.com/linkspreed/Tizza
 - The repository for Tizza is ready 😍
