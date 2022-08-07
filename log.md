@@ -7,6 +7,9 @@
  - ✔️ Unlimited team members
  - ✔️ Unlimited storage
 
+### 07.08.2022 (announcement Tizza)
+- Tizza now gets its own repository on Github.🍔
+
 ### 07.08.2022 (announcement Web5)
 - https://web5.cf
 
