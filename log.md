@@ -3,6 +3,18 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 07.08.2022 (announcement Streamvalley)
+- The servers are ready, the code is double checked and the databases are ready. Keep your fingers crossed for us. 2.2.4 is now on the way.
+
+### 07.08.2022 (announcement Shortcut)
+- The servers are ready, the code is double checked and the databases are ready. Keep your fingers crossed for us. 2.2.4 is now on the way.
+
+### 07.08.2022 (announcement Showit)
+- The servers are ready, the code is double checked and the databases are ready. Keep your fingers crossed for us. 2.2.4 is now on the way.
+
+### 07.08.2022 (announcement Ples)
+- The servers are ready, the code is double checked and the databases are ready. Keep your fingers crossed for us. 2.2.4 is now on the way.
+
+### 07.08.2022 (announcement Streamvalley)
 - Tonight we will release the new version 2.2.4 of **Streamvalley**
 
 ### 07.08.2022 (announcement Shortcut)
