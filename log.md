@@ -3,6 +3,18 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 07.08.2022 (announcement Streamvalley)
+- Juhuu, version 2.2.4 has now been successfully released. 🥳😍
+
+### 07.08.2022 (announcement Shortcut)
+- Juhuu, version 2.2.4 has now been successfully released. 🥳😍
+
+### 07.08.2022 (announcement Showit)
+- Juhuu, version 2.2.4 has now been successfully released. 🥳😍
+
+### 07.08.2022 (announcement Ples)
+- Juhuu, version 2.2.4 has now been successfully released. 🥳😍
+
+### 07.08.2022 (announcement Streamvalley)
 - The servers are ready, the code is double checked and the databases are ready. Keep your fingers crossed for us. 2.2.4 is now on the way.
 
 ### 07.08.2022 (announcement Shortcut)
