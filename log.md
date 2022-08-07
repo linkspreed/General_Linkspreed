@@ -3,6 +3,11 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 07.08.2022 (announcement Web5)
+- The following changes to our #Web5 Cloud:
+ - ✔️ Unlimited team members
+ - ✔️ Unlimited storage
+
+### 07.08.2022 (announcement Web5)
 - We continue to work on our decentralized cloud solution - **Web5**
 
 ### 07.08.2022 (announcement)
