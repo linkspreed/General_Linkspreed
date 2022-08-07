@@ -3,16 +3,16 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 07.08.2022 (announcement Streamvalley)
--Tonight we will release the new version 2.2.4 of **Streamvalley**
+- Tonight we will release the new version 2.2.4 of **Streamvalley**
 
 ### 07.08.2022 (announcement Shortcut)
--Tonight we will release the new version 2.2.4 of **Shortcut**
+- Tonight we will release the new version 2.2.4 of **Shortcut**
 
 ### 07.08.2022 (announcement Showit)
--Tonight we will release the new version 2.2.4 of **Showit**
+- Tonight we will release the new version 2.2.4 of **Showit**
 
 ### 07.08.2022 (announcement Ples)
--Tonight we will release the new version 2.2.4 of **Ples**
+- Tonight we will release the new version 2.2.4 of **Ples**
 
 ### 07.08.2022 (announcement Grown)
 - We're launching the content for **Grown** today after the site has always served as a preview. ⚡️
