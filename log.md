@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 07.08.2022 (announcement Tizza)
+- https://github.com/linkspreed/Tizza
+- The repository for Tizza is ready 😍
+
+### 07.08.2022 (announcement Tizza)
 - Tizza now gets its own repository on Github.🍔
 
 ### 07.08.2022 (announcement Web5)
