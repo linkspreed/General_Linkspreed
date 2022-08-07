@@ -2,13 +2,13 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 07.08.2022 (announcement Tizza)
+- Tizza now gets its own repository on Github.🍔
+
 ### 07.08.2022 (announcement Web5)
 - The following changes to our #Web5 Cloud:
  - ✔️ Unlimited team members
  - ✔️ Unlimited storage
-
-### 07.08.2022 (announcement Tizza)
-- Tizza now gets its own repository on Github.🍔
 
 ### 07.08.2022 (announcement Web5)
 - https://web5.cf
