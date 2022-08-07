@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 07.08.2022 (announcement)
+- We continue to work on our bookmark manager.
+
 ### 06.08.2022 (announcement SoundChest, Musiccloud, YourPod)
 - We have successfully updated **SoundChest**, **Musiccloud** and **YourPod** to the new version (1.4.7).
 
