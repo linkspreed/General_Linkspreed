@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 08.08.2022 (announcement)
+- We are actively working on our bookmarking app.
+
 ### 08.08.2022 (announcement Share)
 - We are now starting work on an Android app for **Share**. 📱
 
