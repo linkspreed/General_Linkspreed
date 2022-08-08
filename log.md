@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 08.08.2022 (announcement Musiccloud)
+- We've updated **Musiccloud**'s design.
+
 ### 08.08.2022 (announcement Linkspreed)
 - 🎮 Calling all gamers out there - we will be releasing a new minigame on **Linkspreed** 🧡 every Saturday 
 
