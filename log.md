@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 08.08.2022 (announcement Web5)
+- We are now continuing to work on our 100% decentralized cloud solution, **Web5**, which extends to more than 13k nodes worldwide.
+
 ### 08.08.2022 (announcement SeedSpreed)
   - We are considering developing a new landing page for **SeedSpreed** and are working on plans.
 
