@@ -3,6 +3,9 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 08.08.2022 (announcement Web5)
+- We have successfully added the **Web5** Cloud to the Cloudflare network.
+
+### 08.08.2022 (announcement Web5)
 - The Web5.cf SMTP server is configured successfully.
 - 📧 service@web5.cf
 
