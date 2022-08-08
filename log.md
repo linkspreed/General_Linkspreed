@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 08.08.2022 (announcement)
+- We are working on an internal download page for apps.
+
 ### 08.08.2022 (announcement Web5)
 - We have successfully added the **Web5** Cloud to the Cloudflare network.
 
