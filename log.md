@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 08.08.2022 (announcement SeedSpreed)
+  - We are considering developing a new landing page for **SeedSpreed** and are working on plans.
+
+### 08.08.2022 (announcement ForJU)
+  - We are considering developing a new landing page for **ForJu** and are working on plans.
+
 ### 07.08.2022 (announcement Streamvalley)
 - Juhuu, version 2.2.4 has now been successfully released. 🥳😍
 
