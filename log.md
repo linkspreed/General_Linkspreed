@@ -3,6 +3,10 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 09.08.2022 (announcement Web5)
+- We think we've found the bug and it's a DNS error. 
+- We will try to fix the bug as soon as possible.
+
+### 09.08.2022 (announcement Web5)
 - The **Web5** Cloud is currently offline. 
 - ⚡️ We will investigate the error immediately.
 
