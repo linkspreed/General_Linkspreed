@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 07/12/2022 will appear here ...
+## All changes that we will make from 07/12/2022 will appear here ...Grown - the new application for business is in progress
+
+### 09.08.2022 (announcement Grown)
+- **Grown** - the new application for business is in progress
 
 ### 09.08.2022 (announcement Web5)
 - We think we've found the bug and it's a DNS error. 
