@@ -3,7 +3,7 @@
 ## All changes that we will make from 07/12/2022 will appear here ...
 
 ### 09.08.2022 (announcement Share)
-- We are actively working on our bookmarking app.
+- We are working on the **share** app.
 
 ### 09.08.2022 (announcement Linkspreed Photos)
 - We did a mini review on **Linkspreed Photos**.
