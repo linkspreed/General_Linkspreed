@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...
 
+### 09.08.2022 (announcement Web5)
+- The **Web5** Cloud is currently offline. 
+- ⚡️ We will investigate the error immediately.
+
 ### 09.08.2022 (announcement Share)
 - We are working on the **share** app.
 
