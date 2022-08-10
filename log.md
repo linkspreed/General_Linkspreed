@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...Grown - the new application for business is in progress
 
-### 09.08.2022 (announcement)
+### 10.08.2022 (announcement)
 - We are working on an app download landing page that can be built into several of our platforms as diverse.
 
 ### 09.08.2022 (announcement Grown)
