@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...Grown - the new application for business is in progress
 
-### 10.08.2022 (announcement Web5)
+### 11.08.2022 (announcement Web5)
 - **Web5** Cloud erhält ein eigenes Github-Repository
 
 ### 10.08.2022 (announcement Share)
