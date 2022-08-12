@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 07/12/2022 will appear here ...Grown - the new application for business is in progress
 
+### 11.08.2022 (announcement Twig)
+- https://app.twig.cf/
+- Still in progress ...
+
 ### 11.08.2022 (announcement)
 - We continued to work on our own Reddit Discussion platform.
 
