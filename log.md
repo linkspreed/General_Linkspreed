@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
 ### 11.08.2022 (announcement Tungolino)
+- The Github repo for **Tungolino** is on the way
+
+### 11.08.2022 (announcement Tungolino)
 - Before we release a new update for **Tungolino**, we want to make the github repo.
 
 ### 11.08.2022 (announcement Twig)
