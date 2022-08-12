@@ -3,7 +3,12 @@
 ## All changes that we will make from 07/12/2022 will appear here ...Grown - the new application for business is in progress
 
 ### 11.08.2022 (announcement Twig)
-- The app.twig.cf page will be ready soon.
+- We changed the **Twig.cf** nameservers at short notice because of **app.twig.cf**. 
+- Now let's add the domain back to Cloudflare. 
+- Therefore the site will be offline for a few minutes.
+
+### 11.08.2022 (announcement Twig)
+- The **app.twig.cf** page will be ready soon.
 
 ### 11.08.2022 (announcement Tungolino)
 - We are reviewing the code for a possible **Tungolino** update.
