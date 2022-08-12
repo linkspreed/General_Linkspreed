@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
 ### 11.08.2022 (announcement Tungolino)
+- https://github.com/linkspreed/Tungolino
+- The Tungolino repository is ready :)
+
+### 11.08.2022 (announcement Tungolino)
 - The Github repo for **Tungolino** is on the way
 
 ### 11.08.2022 (announcement Tungolino)
