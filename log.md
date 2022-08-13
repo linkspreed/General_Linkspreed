@@ -2,31 +2,34 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
-### 11.08.2022 (announcement Tungolino)
+### 13.08.2022 (announcement)
+- We are working hard for a new product :)
+
+### 12.08.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino
 - The Tungolino repository is ready :)
 
-### 11.08.2022 (announcement Tungolino)
+### 12.08.2022 (announcement Tungolino)
 - The Github repo for **Tungolino** is on the way
 
-### 11.08.2022 (announcement Tungolino)
+### 12.08.2022 (announcement Tungolino)
 - Before we release a new update for **Tungolino**, we want to make the github repo.
 
-### 11.08.2022 (announcement Twig)
+### 12.08.2022 (announcement Twig)
 - We continued to work on **app.twig.cf**.
 
-### 11.08.2022 (announcement Twig)
+### 12.08.2022 (announcement Twig)
 - We changed the **Twig.cf** nameservers at short notice because of **app.twig.cf**. 
 - Now let's add the domain back to Cloudflare. 
 - Therefore the site will be offline for a few minutes.
 
-### 11.08.2022 (announcement Twig)
+### 12.08.2022 (announcement Twig)
 - The **app.twig.cf** page will be ready soon.
 
-### 11.08.2022 (announcement Tungolino)
+### 12.08.2022 (announcement Tungolino)
 - We are reviewing the code for a possible **Tungolino** update.
 
-### 11.08.2022 (announcement Twig)
+### 12.08.2022 (announcement Twig)
 - https://app.twig.cf/
 - Still in progress ...
 
