@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
-### 14.08.2022 (announcement)
+### 14.08.2022 (announcement AppSpreed)
+- **AppSpreed** could soon go online with Linkspreed's first app - Twig. 📱
+
+### 14.08.2022 (announcement AppSpreed)
 - We are still working on the website, through which we will again offer all our apps centrally.
 
 ### 14.08.2022 (announcement)
