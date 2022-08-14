@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 14.08.2022 (announcement Tungolino)
+- We still want to wait for a response from our hosting provider before releasing the new versions of Tungolino.
+
 ### 14.08.2022 (announcement AppSpreed)
 - **AppSpreed** can be completed soon.
 - Within the next few days...
