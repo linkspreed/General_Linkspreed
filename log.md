@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 13.08.2022 (announcement)
+- At the moment we are still working on a tool for bloggers that should enable everyone to create their own blog and host it for free. 🚀
+
 ### 13.08.2022 (announcement Tungolino)
 - We continue to work on the new update for **Tungolino**.
 
