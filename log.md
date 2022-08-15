@@ -398,6 +398,9 @@
 - We now publish the **Twig** app on Github.
 
 ### 29.07.2022 (announcement new product)
+- For our new project, with the toolkit for users, we have selected the right domain. It will be launched tonight 😍 according to German time.
+
+### 29.07.2022 (announcement new product)
 - We are releasing a powerful toolset 🥳 with many practical, small Internet tools for everyday use. ☁️🚀
 
 ### 28.07.2022 (announcement Ples)
