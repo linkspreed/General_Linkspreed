@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 15.08.2022 (announcement Web5)
+- **Web5.cf** is now an official site of ours. 
+- We are finished with the developments, but we are constantly improving the site.
+
 ### 15.08.2022 (announcement)
 - Many new plans are available...
 
