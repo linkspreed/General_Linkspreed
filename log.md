@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
 ### 15.08.2022 (announcement Tungolino)
+- We are now starting to update **Tungolino** step by step to the new version we have developed.🥳
+
+### 15.08.2022 (announcement Tungolino)
 - We are ready to release updates for **Tungolino** soon.
 
 ### 15.08.2022 (announcement Write)
