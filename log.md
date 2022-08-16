@@ -2,13 +2,16 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 16.08.2022 (announcement Write)
+- We are now setting up a CronJob for the Blog SaaS application.
+
 ### 16.08.2022 (announcement)
 - The ideas for new products overwhelm each other ^^ 🚀
 
 ### 16.08.2022 (announcement AppSpreed)
 - Tomorrow we will presumably finish and release **AppSpreed**.
 
-### 16.08.2022 (announcement)
+### 16.08.2022 (announcement Write)
 - We continued to work on our blog app.
 
 ### 16.08.2022 (announcement Tungolino)
