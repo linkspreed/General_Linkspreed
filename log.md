@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 16.08.2022 (announcement Grown)
+- We're still working a little further on **Grown**.🥳🌱
+
 ### 16.08.2022 (announcement Taya)
 - We are now releasing the **Taya** App.
 
