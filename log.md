@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
 ### 16.08.2022 (announcement Grown)
+- We are expanding the **Grown** landing page so that the user has a good first impression.
+
+### 16.08.2022 (announcement Grown)
 - ✅ The email traffic on **Grown** is finally working properly. 
 - 🚀 The mails are sent smoothly upon registration.
 
