@@ -2,8 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 16.08.2022 (announcement Tungolino)
+- We fixed an issue with the logo on **Tungolino**.
+
 ### 15.08.2022 (announcement Tungolino)
-- Tungolino has been safely and successfully updated to version 3.6.8. 🚀
+- **Tungolino** has been safely and successfully updated to version 3.6.8. 🚀
 - The complete changelog is available on Github. 😍
 
 ### 15.08.2022 (announcement Tungolino)
