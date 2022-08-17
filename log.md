@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.08.2022 (announcement Grown)
+- Our new logo...
+- https://grown.tk/assets/front/img/62fce0c100ea0.png
+
+### 17.08.2022 (announcement Grown)
 - We're making some small design changes to **Grown** now.
 
 ### 17.08.2022 (announcement Grown)
