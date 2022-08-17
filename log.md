@@ -1,6 +1,12 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
+## All changes that we will make from 12.07.2022 will appear here ...
+
+### 17.08.2022 (announcement Grown)
+- **Grown** - the new application for business is in progress
+
+### 17.08.2022 (announcement Write/Grown)
+- In the next 2 hours we put a special focus on **Write** and **Grown**... ✅
 
 ### 17.08.2022 (announcement AppSpreed)
 - We are now finishing our work on **AppSpreed** and releasing the site now.
