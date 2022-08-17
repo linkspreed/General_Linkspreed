@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...Grown - the new application for business is in progress
 
+### 17.08.2022 (announcement AppSpreed)
+- We are now finishing our work on **AppSpreed** and releasing the site now.
+
 ### 16.08.2022 (announcement Grown)
 - We are expanding the **Grown** landing page so that the user has a good first impression.
 
