@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.08.2022 (announcement)
+- We are currently working on many new projects...
+
 ### 17.08.2022 (announcement Grown)
 - Yay 😍🥳🥳, the development work on **Grown** is over for now. 
 - However, we will continue to push and release improvements regularly.
