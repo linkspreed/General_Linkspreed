@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.08.2022 (announcement Write)
+- We will now continue to work on **Write**.
+
 ### 18.08.2022 (announcement Adseasy)
 - We started a little experiment on **Adseasy**. 
 - The page will be in edit mode for the next 60 minutes.
