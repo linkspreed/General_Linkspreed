@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.08.2022 (announcement)
+- We want to grow.
+- That is what we are doing now ...
+
 ### 18.08.2022 (announcement Write)
 - We will now continue to work on **Write**.
 
