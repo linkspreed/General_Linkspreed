@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.08.2022 (announcement Grown)
+- We're going to do a big test of **Grown** and play through the whole scenario once :)
+
 ### 18.08.2022 (announcement)
 - We are currently working on many new projects...
 
