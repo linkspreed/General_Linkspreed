@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2022 (announcement)
+- A few new updates will be coming soon. 
+- Stay tuned.
+
 ### 19.08.2022 (announcement Ples)
 - We are working on a redesign for **Ples** colors.
 
