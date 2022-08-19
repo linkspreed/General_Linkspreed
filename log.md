@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2022 (announcement Write)
+- We now want to end **Write**.cf for good. The last changes that were interrupted because of the new notebook.
+
 ### 19.08.2022 (announcement)
 - The beta launch was very successful and we will continue to build on the code in the future to one day properly launch the platform. 🚀
 
