@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.08.2022 (announcement)
+- The beta launch was very successful and we will continue to build on the code in the future to one day properly launch the platform. 🚀
+
+### 19.08.2022 (announcement)
 - What's the best way to test a new Chromebook? 
 - We launch a platform on our server in beta and see if the programs we need for it run perfectly. 🥳
 
