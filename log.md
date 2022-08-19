@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2022 (announcement)
+- We set up our new computer, a Chromebook ;)
+
 ### 19.08.2022 (announcement Write)
 - We are now finishing our development work on **Write**.cf for now. 
 - The last steps are still being made - the last improvements made.
