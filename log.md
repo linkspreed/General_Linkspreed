@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement LSNews)
+- **LSNews** is now getting a complete relaunch and will therefore be unavailable for 5 to 10 minutes in the next half hour.
+
+### 20.08.2022 (announcement LSNews)
 - We are now working a little on **LSNews** and want to work a little more on it in the near future...
 
 ### 20.08.2022 (announcement)
