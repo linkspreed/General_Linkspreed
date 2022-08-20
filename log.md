@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2022 (announcement)
+- One vision is that everyone has the opportunity to write their own news - Citizen Journalism
+
 ### 20.08.2022 (announcement Write)
 - The frontend and backend of **Write** has been terminated successfully...
 
