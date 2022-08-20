@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2022 (announcement Write)
+- Push the front end of **Write** a little more. 📱
+- After all, we focus on the highest quality. 😜
+
 ### 19.08.2022 (announcement Datify)
 - In the next few days we want to release 2 more updates for **Datify**. 🚀
 - Both updates are intended to fix a few bugs. 
