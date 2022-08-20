@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2022 (announcement)
+- We got a crazy idea that could make the world a little bit better.
+- We need some time to plan and expand the project...
+
 ### 20.08.2022 (announcement Write)
 - All of **Write**'s features work flawlessly.
 - Our test run was successful.
