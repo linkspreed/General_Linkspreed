@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement Write)
+- https://write.cf/assets/front/img/63008d18ddaf7.png
+- **Write**'s new logo
+
+### 20.08.2022 (announcement Write)
 - Write's footer still needs improvement... </>
 
 ### 20.08.2022 (announcement Write)
