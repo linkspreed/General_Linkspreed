@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement Datify)
+- **Datify**'s update will only bring some improvements and bug fixes.
+
+### 20.08.2022 (announcement Datify)
 - We are still working a bit on **Datify** as we plan to release a new update tomorrow, August 21, 2022.
 
 ### 20.08.2022 (announcement)
