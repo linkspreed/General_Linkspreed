@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2022 (announcement Write)
+- We now do an extensive test for **Write**.cf
+- This is the very last step to ensure that all functions are actually working properly.
+
 ### 20.08.2022 (announcement LSNews)
 - We relaunched LSNews about an hour ago. 
 - As of now there are no problems and the site is running perfectly. 
