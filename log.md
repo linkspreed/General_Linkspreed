@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement LSNews)
+- We relaunched LSNews about an hour ago. 
+- As of now there are no problems and the site is running perfectly. 
+- Over the next few days we will continue to work on the site, its performance, features and design.
+
+### 20.08.2022 (announcement LSNews)
 - **LSNews** is now getting a complete relaunch and will therefore be unavailable for 5 to 10 minutes in the next half hour.
 
 ### 20.08.2022 (announcement LSNews)
