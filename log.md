@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement Write)
+- The frontend and backend of **Write** has been terminated successfully...
+
+### 20.08.2022 (announcement Write)
 - https://write.cf/assets/front/img/63009065564e5.png
 - A beautiful new favicon for **Write**
 
