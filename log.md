@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement Write)
+- All of **Write**'s features work flawlessly.
+- Our test run was successful.
+- Linkspreed wishes you lots of fun and success with your own new blog.
+
+### 20.08.2022 (announcement Write)
 - We now do an extensive test for **Write**.cf
 - This is the very last step to ensure that all functions are actually working properly.
 
