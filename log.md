@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.08.2022 (announcement Write)
+- Write's footer still needs improvement... </>
+
+### 20.08.2022 (announcement Write)
 - Push the front end of **Write** a little more. 📱
 - After all, we focus on the highest quality. 😜
 
