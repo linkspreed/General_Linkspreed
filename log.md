@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.08.2022 (announcement Datify)
+- Today we will release Datify version 1.6.3 :)
+
 ### 21.08.2022 (announcement BETA)
 - I can proudly announce that the second beta launch was also very successful.
 - The site is still in the early stages of development...
