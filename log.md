@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 20.08.2022 (announcement)
+### 21.08.2022 (announcement)
+- We are now running the beta launch from a few days ago again under a new domain, which will then also become the product domain.
+
+### 21.08.2022 (announcement)
 - We have now sent out a cooperation email to irl.
 
 ### 20.08.2022 (announcement Datify)
