@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2022 (announcement)
+- We have now sent out a cooperation email to irl.
+
 ### 20.08.2022 (announcement Datify)
 - **Datify**'s update will only bring some improvements and bug fixes.
 
