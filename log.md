@@ -3,10 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.08.2022 (announcement Dati)
-- We are now installing the ionCube PHP extension for data ...
+- We are now installing the ionCube PHP extension for **Dati** ...
 
 ### 21.08.2022 (announcement Datify)
-- Today we will release Datify version 1.6.3 :)
+- Today we will release **Datify** version 1.6.3 :)
 
 ### 21.08.2022 (announcement BETA)
 - I can proudly announce that the second beta launch was also very successful.
