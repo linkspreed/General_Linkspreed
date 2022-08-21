@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.08.2022 (announcement Datify)
+- We are now launching **Datify** to version 1.6.3
+- The update process takes between 20 and 30 minutes.
+
 ### 21.08.2022 (announcement Dati)
 - We are now relaunching **Dati** :)
 
