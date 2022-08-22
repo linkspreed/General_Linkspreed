@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.08.2022 (announcement Tuit)
+- **Tuit**'s SMTP server is now working properly :D
+
+### 22.08.2022 (announcement Tuit)
 - **Tuit** now has the Free Unlimited plan available like all other Linkspreed platforms.
 
 ### 22.08.2022 (announcement Tuit)
