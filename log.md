@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.08.2022 (announcement Streamvalley)
+- Today we are expected to release a new update (version 2.2.5) for **Streamvalley**
+
+### 22.08.2022 (announcement Shortcut)
+- Today we are expected to release a new update (version 2.2.5) for **Shortcut**
+
+### 22.08.2022 (announcement Ples)
+- Today we are expected to release a new update (version 2.2.5) for **Ples**
+
+### 22.08.2022 (announcement Showit)
+- Today we are expected to release a new update (version 2.2.5) for **Showit**
+
 ### 22.08.2022 (announcement)
 - Another collaboration email went out today to Reddit and Triller from Linkspreed.
 
