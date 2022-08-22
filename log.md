@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.08.2022 (announcement Write)
+- The github repository for **Write**.cf is now complete...
+- https://github.com/linkspreed/Write
+
+### 22.08.2022 (announcement Write)
 - **Write**.cf now gets its own Github repository 🥳
 
 ### 22.08.2022 (announcement Tuit)
