@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.08.2022 (announcement)
+- Another collaboration email went out today to Reddit and Triller from Linkspreed.
+
 ### 21.08.2022 (announcement Datify)
 - **Datify** is successfully on version 1.6.3 🚀
 - You can find the full change history on Github.📱
