@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.08.2022 (announcement)
+- Tomorrow we will probably release update 2.2.5 for the video streaming platforms.
+
 ### 22.08.2022 (announcement Write)
 - The github repository for **Write**.cf is now complete...
 - https://github.com/linkspreed/Write
