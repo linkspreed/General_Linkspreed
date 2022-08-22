@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.08.2022 (announcement Tuit)
+- We are now working on **Tuit** - the platform from the beta launch
+
 ### 22.08.2022 (announcement)
 - The update for the video streaming platforms has been pushed back a bit because we want to develop a few more features.
 
