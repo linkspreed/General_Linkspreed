@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.08.2022 (announcement Tuit)
+- We are still designing the **Tuit** homepage.
+- The platform should be of high quality in design :)
+
+### 23.08.2022 (announcement Tuit)
 - We are now continuing to work on **Tuit**.
 
 ### 23.08.2022 (announcement)
