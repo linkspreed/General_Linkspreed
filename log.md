@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.08.2022 (announcement Dati)
+- We're working a little on **Dati**, but that shouldn't be confused with Datify ;)
+- Dati != Datify
+
 ### 23.08.2022 (announcement)
 - **Dati** != **Datify**
 
