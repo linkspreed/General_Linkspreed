@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.08.2022 (announcement)
+- So now we will launch a beta version of version 2.2.5 on **Showit**.
+- Then we test all functions extensively and if there is a green light, we will also launch the update on the other 3 platforms.
+
 ### 23.08.2022 (announcement Grown)
 - https://github.com/linkspreed/Grown
 - The Github repository for **Grown** is ready.  
