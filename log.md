@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.08.2022 (announcement Ples)
+ - **Ples** was successfully updated to version 2.2.5
+
+### 23.08.2022 (announcement Shortcut)
+ - **Shortcut** was successfully updated to version 2.2.5
+
+### 23.08.2022 (announcement Streamvalley)
+- **Streamvalley** was successfully updated to version 2.2.5
+
 ### 23.08.2022 (announcement)
 - We will now push the other video streaming platforms to the new version 2.2.5.
 
