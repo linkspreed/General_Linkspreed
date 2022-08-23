@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.08.2022 (announcement)
+- Today a business cooperation email went to Careerkarma :D
+
 ### 22.08.2022 (announcement)
 - Tomorrow we will probably release update 2.2.5 for the video streaming platforms.
 
