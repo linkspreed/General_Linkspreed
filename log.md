@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.08.2022 (announcement Tuit)
+- We are now continuing to work on **Tuit**.
+
 ### 23.08.2022 (announcement)
 - Today a business cooperation email went to Careerkarma :D
 
