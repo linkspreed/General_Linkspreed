@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.08.2022 (announcement)
+- We're working on a new update for our video streaming platforms 
+
 ### 23.08.2022 (announcement Ples, Shortcut, Streamvalley, Showit)
 - The changelogs have now been updated and published in the Github repositories. 😍🚀
 
