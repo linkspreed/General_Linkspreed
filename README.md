@@ -1,6 +1,6 @@
 # <img align="left" alt="Linkspreed General" width="100px" src="https://www.linkspreed.com/themes/wondertag/img/logo.png" draggable="false" /> Linkspreed General ([Click to visit LS 🚀](https://www.linkspreed.com/))([Log 🚀](https://github.com/linkspreed/General_Linkspreed/blob/main/log.md))
 
-Here you will find all the important information about Linkspreed 🧡 as a global collection of social networks, tools, cloud solutions and much more, designed to help humanity shape the future.
+Here you will find all the important information about Linkspreed 🧡 as a global collection of social networks, tools, cloud solutions and much more, designed to help humanity shape the future. 
 
 ## **[LOG 🧡](https://github.com/linkspreed/General_Linkspreed/blob/main/log.md)** **Check out the full Log of all platforms Linkspreed is owning :)**
 
