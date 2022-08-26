@@ -1,6 +1,6 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...
+## All changes that we will make from 12.07.2022 will appear here ....
 
 ### 25.08.2022
 - new SaaS tools for companies are being planned 
