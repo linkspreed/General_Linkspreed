@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ....
 
+### 26.08.2022
+- We will test Cloudflare SaaS in the future.
+
 ### 25.08.2022
 - new SaaS tools for companies are being planned 
 
