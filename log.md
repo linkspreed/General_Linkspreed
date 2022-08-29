@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ....
 
-### 26.08.2022 (announcement)
+### 27.08.2022 (announcement)
 - In the coming week on Wednesday or Thursday we will release some new updates.
 
 ### 26.08.2022 (announcement)
