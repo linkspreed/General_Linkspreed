@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ....
 
+### 30.08.2022 (announcement)
+- starting tomorrow we will continue with an intensive development
+
 ### 27.08.2022 (announcement)
 - In the coming week on Wednesday or Thursday we will release some new updates.
 
