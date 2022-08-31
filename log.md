@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ....
 
 ### 31.08.2022 (announcement)
+- On September 1st, 2022 we will release some new updates :D
+
+### 31.08.2022 (announcement)
 - Development is now back to normal...
 
 ### 30.08.2022 (announcement)
