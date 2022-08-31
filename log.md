@@ -1,6 +1,10 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ....
+## All changes that we will make from 12.07.2022 will appear here ...
+
+### 31.08.2022 (announcement)
+- A few days ago we sent an email to BeReal regarding a cooperation.
+- We will also set up a new project here ^^
 
 ### 31.08.2022 (announcement)
 - On September 1st, 2022 we will release some new updates :D
