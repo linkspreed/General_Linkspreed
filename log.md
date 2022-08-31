@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 31.08.2022 (announcement)
+- We're experimenting a bit with Flutter development on Chrome OS
+
+### 31.08.2022 (announcement)
 - A few days ago we sent an email to BeReal regarding a cooperation.
 - We will also set up a new project here ^^
 
