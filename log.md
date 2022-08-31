@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.08.2022 (announcement BETA)
+- We're doing a mini test launch :)
+
 ### 31.08.2022 (announcement)
 - Now expand my flutter knowledge a little further.
 - This could give Linkspreed an advantage in some platforms if all goes according to plan.
