@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ....
 
+### 31.08.2022 (announcement)
+- Development is now back to normal...
+
 ### 30.08.2022 (announcement)
 - starting tomorrow we will continue with an intensive development
 
