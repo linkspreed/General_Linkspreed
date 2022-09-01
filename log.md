@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.09.2022 (announcement Musiccloud)
+- The design update for **Musiccloud** has been successfully completed and adapted to the new version 1.4.8.
+
+### 01.09.2022 (announcement Musiccloud)
 - **Musiccloud** is now getting a design update.
 
 ### 01.09.2022 (announcement)
