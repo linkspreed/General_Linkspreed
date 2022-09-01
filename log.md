@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2022 (announcement Musiccloud)
+- **Musiccloud** is now getting a design update.
+
 ### 01.09.2022 (announcement)
 - 7 updates done so far ✅🚀
 - Now take a little walk to clear your head and then continue :D
