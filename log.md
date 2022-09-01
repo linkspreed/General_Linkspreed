@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2022 (announcement Kitchat)
+- We will now release a new version (v3.6) for Kitchat.
+- The last update for today :D
+
 ### 01.09.2022 (announcement Musiccloud)
 - The design update for **Musiccloud** has been successfully completed and adapted to the new version 1.4.8.
 
