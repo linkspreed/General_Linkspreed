@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.09.2022 (announcement Soundchest, Musiccloud, Yourpod)
+- The latest changelogs are now available on Github...
+
+### 01.09.2022 (announcement Soundchest, Musiccloud, Yourpod)
 - Update 1.4.8 was successfully installed on the servers.
 
 ### 01.09.2022 (announcement Soundchest, Musiccloud, Yourpod)
