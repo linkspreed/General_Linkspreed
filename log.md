@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2022 (announcement Streamvalley)
+- The update process to version 2.2.6 will start shortly
+
+### 01.09.2022 (announcement Ples)
+- The update process to version 2.2.6 will start shortly
+
+### 01.09.2022 (announcement Showit)
+- The update process to version 2.2.6 will start shortly
+
+### 01.09.2022 (announcement Shortcut)
+- The update process to version 2.2.6 will start shortly
+
 ### 01.09.2022 (announcement)
 - Today we are releasing some new updates for our platforms.
 
