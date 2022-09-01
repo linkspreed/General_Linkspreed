@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2022 (announcement Soundchest)
+- The update process to version 1.4.8 will start shortly
+
+### 01.09.2022 (announcement Musiccloud)
+- The update process to version 1.4.8 will start shortly
+
+### 01.09.2022 (announcement Yourpod)
+- The update process to version 1.4.8 will start shortly
+
 ### 01.09.2022 (announcement Streamvalley, Shortcut, Showit, Ples)
 - The latest changelogs are now available on Github...
 
