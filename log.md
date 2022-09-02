@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.09.2022 (announcement)
+- We are now doing a small test of a new technology :D
+
 ### 02.09.2022 (announcement PinPix, Chitter)
 - We may soon release a new design for **PinPix** and **Chitter**.  
 - We're working hard on it.
