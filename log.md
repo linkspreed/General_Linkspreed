@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2022 (announcement Rank)
+- We do a few small checks on **Rank** and see how user-friendly the platform is.
+
 ### 01.09.2022 (announcement Kitchat)
 - We will now release a new version (v3.6) for Kitchat.
 - The last update for today :D
