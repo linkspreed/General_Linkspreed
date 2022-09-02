@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 01.09.2022 (announcement Rank)
+### 02.09.2022 (announcement Rank)
+- Everything works flawlessly on **Rank** and the platform passed our test with a very good rating.
+
+### 02.09.2022 (announcement Rank)
 - We do a few small checks on **Rank** and see how user-friendly the platform is.
 
 ### 01.09.2022 (announcement Kitchat)
