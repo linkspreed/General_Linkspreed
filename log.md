@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.09.2022 (announcement Tuit)
+- We'll be releasing **Tuit** very soon. 🚀🥳
+
+### 02.09.2022 (announcement Tuit)
 - We finished **Tuit**'s design and we are very happy with the quality.
 
 ### 02.09.2022 (announcement Tuit)
