@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.09.2022 (announcement Tuit)
+- We start again with the development work on our new platform **Tuit**.
+
 ### 02.09.2022 (announcement Rank)
 - Everything works flawlessly on **Rank** and the platform passed our test with a very good rating.
 
