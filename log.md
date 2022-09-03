@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.09.2022 (announcement)
+- We are working on a huge update for **Linkspreed**, **Seedspreed** and **Forju** 👌
+
+### 03.09.2022 (announcement)
 - We are currently dealing with new cloud models and in particular with the decentralization of these new modules.
 
 ### 02.09.2022 (announcement)
