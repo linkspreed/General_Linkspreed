@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2022 (announcement ForJu)
+- We are currently very much focused on developing a new, huge update for **ForJu**. 
+- Version 4.1.2 will be gigantic 😍
+
+### 03.09.2022 (announcement Seedspreed)
+- We are currently very much focused on developing a new, huge update for **Seedspreed**. 
+- Version 4.1.2 will be gigantic 😍
+
+### 03.09.2022 (announcement Linkspreed)
+- We are currently very much focused on developing a new, huge update for **Linkspreed.com**. 
+- Version 4.1.2 will be gigantic 😍
+
 ### 03.09.2022 (announcement)
 - We're improving our organizational checklist in Google Sheets...
 - Also a task you have to do ;D
