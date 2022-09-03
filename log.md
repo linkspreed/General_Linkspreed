@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2022 (announcement Tuit)
+- We hereby officially release **Tuit**.
+- The development work is not yet complete and our checklist is still being processed...
+- https://tuit.cf
+
 ### 03.09.2022 (announcement)
 - We are working on a huge update for **Linkspreed**, **Seedspreed** and **Forju** 👌
 
