@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2022 (announcement)
+- The rest of the evening I'll be working on a new project and the update for Linkspreed & co. keep working.
+
 ### 03.09.2022 (announcement ForJu)
 - We are currently very much focused on developing a new, huge update for **ForJu**. 
 - Version 4.1.2 will be gigantic 😍
