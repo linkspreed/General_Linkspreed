@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.09.2022 (announcement)
+- We are still working on the frontend of the new platform :D
+
+### 04.09.2022 (announcement)
 - We continue to work on a platform that follows the same vision as **BeReal**, only offers new functions. 🧡
 
 ### 03.09.2022 (announcement)
