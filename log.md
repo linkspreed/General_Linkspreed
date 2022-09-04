@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.09.2022 (announcement PinPix)
+- Our **PinPix** platform is now getting its own Github repository...
+
 ### 04.09.2022 (announcement Chitter)
 - Our **Chitter** platform is now getting its own Github repository...
 
