@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.09.2022 (announcement)
+- We continue to work on a platform that follows the same vision as **BeReal**, only offers new functions. 🧡
+
 ### 03.09.2022 (announcement)
 - The rest of the evening I'll be working on a new project and the update for Linkspreed & co. keep working.
 
