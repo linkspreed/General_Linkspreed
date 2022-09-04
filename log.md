@@ -2,6 +2,16 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.09.2022 (announcement PinPix, Chitter)
+- The two repositories (**PinPix** and **Chitter**) are finished after the **PinPix** design update.
+- Feel free to leave a star ;)
+
+### 04.09.2022 (announcement PinPix)
+- https://github.com/linkspreed/PinPix
+
+### 04.09.2022 (announcement Chitter)
+- https://github.com/linkspreed/Chitter
+
 ### 04.09.2022 (announcement PinPix)
 - **PinPix** got a new design as well as a new user interface. 🥳
 
