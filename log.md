@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
+- We are now releasing version 2.2.7 for **Streamvalley**, **Showit**, **Shortcut** and **Ples**. ✅🚀
+
 ### 05.09.2022 (announcement Kitchat)
 - The theme update for **Kitchat** is here! 
 - We thoroughly tested the platform and all bugs related to the design are now fixed.
