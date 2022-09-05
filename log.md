@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2022 (announcement Linkspreed)
+- The plans for the forthcoming update of **Linkspreed** have been worked out.
+
 ### 04.09.2022 (announcement PinPix, Chitter)
 - The two repositories (**PinPix** and **Chitter**) are finished after the **PinPix** design update.
 - Feel free to leave a star ;)
