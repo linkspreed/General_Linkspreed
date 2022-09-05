@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2022 (announcement Kitchat)
+- This afternoon we're releasing a theme update for **Kitchat**.
+
 ### 05.09.2022 (announcement)
 - Let's work a little more on the new platform.
 
