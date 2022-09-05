@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2022 (announcement)
+- Let's work a little more on the new platform.
+
 ### 05.09.2022 (announcement Podhub)
 - We're working a bit on **Podhub** now and see how we can improve the platform :D
 
