@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
+- The servers are ready - we start the update :D
+
+### 05.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
 - We are now releasing version 2.2.7 for **Streamvalley**, **Showit**, **Shortcut** and **Ples**. ✅🚀
 
 ### 05.09.2022 (announcement Kitchat)
