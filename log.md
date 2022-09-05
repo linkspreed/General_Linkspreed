@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.09.2022 (announcement Kitchat)
+- **Kitchat** is now getting a design update.
+- So please don't be surprised if the page doesn't work properly in the next 5-10 minutes.
+- We will let you know as soon as the update is complete.
+
+### 05.09.2022 (announcement Kitchat)
 - This afternoon we're releasing a theme update for **Kitchat**.
 
 ### 05.09.2022 (announcement)
