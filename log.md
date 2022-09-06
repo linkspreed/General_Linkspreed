@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.09.2022 (announcement Seedspreed)
+- 😍 We will do a test launch of version 4.1.2 on **Seedspreed**.
+
 ### 06.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
 - We will now finish the new version 4.1.2.
 - The **Linkspreed**, **Seedspreed** and **ForJu** platforms will receive the new update.
