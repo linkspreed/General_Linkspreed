@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
+- The entire 4.1.2 changelog is now available on Github.
+
+### 06.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
 - Update 4.1.2 has been released successfully. 🥳😍
 
 ### 06.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
