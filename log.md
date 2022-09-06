@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.09.2022 (announcement)
+- We start the morning with a small test launch.
+
 ### 05.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
 - The entire changelog for the video streaming platforms to version 2.2.7 is now available on Github.
 
