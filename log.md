@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.09.2022 (announcement Seedspreed)
+- We're still making small changes to **Seedspreed**.
+
 ### 07.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
 - We are now working on fine-tuning for version 4.1.2. 😍
 
