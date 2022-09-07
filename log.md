@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
+- We are now working on fine-tuning for version 4.1.2. 😍
+
+### 07.09.2022 (announcement Linkspreed, Seedspreed, ForJu)
 - The CronJob has now been fully developed and successfully loaded onto our servers.
 - This allows us to keep improving the site.
 
