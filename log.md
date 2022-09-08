@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.09.2022 (announcement Seedspreed)
+- Create colored posts on **Seedspreed** and share your text in them :)
+
 ### 08.09.2022 (announcement)
 - We are planning another experiment with a second decentralized cloud solution after Web5 Cloud was successfully launched a few weeks ago.
 
