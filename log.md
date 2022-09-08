@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.09.2022 (announcement Linkspreed)
+ - Now share your location on **Linkspreed** and show it on a map.🗺️
+
 ### 08.09.2022 (announcement ForJu)
  - Now share your location on **ForJu** and show it on a map.🗺️
 
