@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.09.2022 (announcement ForJu)
+ - The fine-tuning of **ForJu** is finished. 
+ - Enjoy version 4.1.2 of the platform :D
+
+### 08.09.2022 (announcement ForJu)
  - 📹 Now you can upload videos to **ForJu** again and share them with your friends and watch them together...
 
 ### 08.09.2022 (announcement Linkspreed)
