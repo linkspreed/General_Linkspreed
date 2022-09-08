@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.09.2022 (announcement Seedspreed)
+- https://seedspreed.cf/
+- **Seedspreed** is finished.☑️
+- Now enjoy version 4.1.2 of Linkspreed's best business network.
+
+### 08.09.2022 (announcement Seedspreed)
 - Do you love gifs? Then share them now on **Seedspreed**. 😍
 
 ### 08.09.2022 (announcement Seedspreed)
