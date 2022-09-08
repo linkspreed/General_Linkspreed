@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+
+### 08.09.2022 (announcement ForJu)
+- We are now dealing with the fine tuning of **ForJu**.
+
 ### 07.09.2022 (announcement Seedspreed)
 - Map integration and location sharing is now possible on **Seedspreed** :D
 
