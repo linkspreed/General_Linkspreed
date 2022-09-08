@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.09.2022 (announcement Seedspreed)
+- Do you love gifs? Then share them now on **Seedspreed**. 😍
+
+### 08.09.2022 (announcement Seedspreed)
 - Create colored posts on **Seedspreed** and share your text in them :)
 
 ### 08.09.2022 (announcement)
