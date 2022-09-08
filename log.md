@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.09.2022 (announcement Linkspreed)
+- We are now working on the fine tuning of **Linkspreed**. 🧡
+
 ### 08.09.2022 (announcement Seedspreed)
 - https://seedspreed.cf/
 - **Seedspreed** is finished.☑️
