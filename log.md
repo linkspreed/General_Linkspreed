@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.09.2022 (announcement)
+- We perform complex test runs with NodeJs integrations.
+
 ### 08.09.2022 (announcement ForJu)
  - The fine-tuning of **ForJu** is finished. 
  - Enjoy version 4.1.2 of the platform :D
