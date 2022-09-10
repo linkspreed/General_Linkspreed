@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.09.2022 (announcement Linkspreed)
+- Now you will find a banner on **Linkspreed**.com that you can use to easily download our app.  
+- Have fun! 🥳
+
+### 10.09.2022 (announcement Linkspreed)
 - We're doing some final development work on **Linkspreed** now. 🧡
 
 ### 09.09.2022 (announcement)
