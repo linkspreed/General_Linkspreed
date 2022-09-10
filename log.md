@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.09.2022 (announcement Linkspreed, ForJu, Seedspreed)
+- Tomorrow we are expected to release version 4.1.3 of **Linkspreed**, **ForJu** and **SeedSpreed**, which actually only fixed a few bugs. 🚀
+
 ### 10.09.2022 (announcement NodX)
 - We have a domain and therefore also the name for the second decentralized cloud solution - **NodX**
 
