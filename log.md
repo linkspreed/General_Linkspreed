@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.09.2022 (announcement)
+- The tests for a second decentralized cloud solution were extremely successful, which is why we are now devoting ourselves to the pitch and, above all, to further expanding the cloud. ☁️
+
 ### 10.09.2022 (announcement Linkspreed)
 - Now you will find a banner on **Linkspreed**.com that you can use to easily download our app.  
 - Have fun! 🥳
