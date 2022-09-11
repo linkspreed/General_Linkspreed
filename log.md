@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.09.2022 (announcement Linkspreed, ForJu, Seedspreed)
+- We are now finishing the launches of version 4.1.3 for **Linkspreed**, **ForJu** and **SeedSpreed**.
+- As soon as the update is complete, we will let you know and publish the changelog.
+
+### 11.09.2022 (announcement Linkspreed, ForJu, Seedspreed)
 - We are now getting the servers, code and databases ready for the launch of version 4.1.3. 🚀🧡
 
 ### 11.09.2022 (announcement Linkspreed, ForJu, Seedspreed)
