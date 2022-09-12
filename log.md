@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.09.2022 (announcement)
+- We now perform some test runs with already existing code fragments. ⚡️
+
 ### 12.09.2022 (announcement Linkspreed, ForJu, Seedspreed)
 - The entire 4.1.3 changelog for **Linkspreed**, **ForJu** and **SeedSpreed** is now available on Github.
 
