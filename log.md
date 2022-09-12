@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.09.2022 (announcement Kitchat)
+- We are now releasing version 3.6.1 of Kitchat, which fixes bugs from version 3.6. 🚀☁️
+
 ### 12.09.2022 (announcement)
 - We are still working on a new project :D
 
