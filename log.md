@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.09.2022 (announcement Kitchat)
+- Version 3.6.1 is now online on the servers.
+- The errors were all fixed.
+
+### 12.09.2022 (announcement Kitchat)
 - We are currently launching version 3.6.1 on our servers.
 
 ### 12.09.2022 (announcement Kitchat)
