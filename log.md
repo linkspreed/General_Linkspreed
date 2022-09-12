@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.09.2022 (announcement)
+- We are still working on a new project :D
+
 ### 12.09.2022 (announcement Linkspreed)
 - 📷 You can now upload your videos again on Linkspreed and share them with your friends.
 
