@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.09.2022 (announcement BeYou)
+- We made an important change in the **BeYou** code.  
+- Now it's only a matter of days until we release **BeYou**.  
+- The platform is expected to appear next weekend.
+
+### 12.09.2022 (announcement BeYou)
 - We are working on **BeYou** - our BeReal alternative :)
 
 ### 12.09.2022 (announcement Kitchat)
