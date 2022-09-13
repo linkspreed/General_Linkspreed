@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.09.2022 (announcement BeYou)
+- We are working on **BeYou** - our BeReal alternative :)
+
 ### 12.09.2022 (announcement Kitchat)
 - ⚡️ The entire changelog for Kitchat with version 3.6.1 is now available on Github.
 - https://github.com/linkspreed/Kitchat/blob/main/changelog.md
