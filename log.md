@@ -3,7 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.09.2022 (announcement BeYou)
-- The 'Forum' module is now available on BeYou free of charge and unlimited for every user from now on.
+- The 'Job' module is now available on **BeYou** free of charge and unlimited for every user from now on.
+
+### 14.09.2022 (announcement BeYou)
+- The 'Forum' module is now available on **BeYou** free of charge and unlimited for every user from now on.
 
 ### 14.09.2022 (announcement BeYou)
 - Just be yourself and don't pretend. 
