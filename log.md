@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.09.2022 (announcement BeYou)
+- 😍 **BeYou**'s newsfeed will be public, which means that you can read the newsfeed of public **BeYou** accounts without an account as long as you like.
+
+### 14.09.2022 (announcement BeYou)
 - We are now continuing to work on #BeYou because we want to finally publish the platform soon. ✨ 
 - We will keep you informed of the developments.
 
