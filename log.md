@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.09.2022 (announcement BeYou)
+- Now send unlimited invite codes to your friends to invite them to **BeYou** ^^
+
+### 14.09.2022 (announcement BeYou)
 - Now send your first gif on **BeYou** :D
 - https://beyou.cf/posts/2
 
