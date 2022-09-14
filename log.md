@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.09.2022 (announcement BeYou)
+- Now send your first gif on **BeYou** :D
+- https://beyou.cf/posts/2
+
+### 14.09.2022 (announcement BeYou)
 - We are now making it possible for you on **BeYou** to activate the filters for location feature to find posts and content near you, provided the location was also posted :)
 
 ### 14.09.2022 (announcement BeYou)
