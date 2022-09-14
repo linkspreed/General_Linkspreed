@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.09.2022 (announcement BeYou)
+- Just be yourself and don't pretend. 
+- It's perfect the way you are!
+- #BeYou 🥳
+
+### 14.09.2022 (announcement BeYou)
 - Open Newsfeeds are a completely new concept for us that we will test with **BeYou** and that we will also report about in social media posts in the future. 🧡
 
 ### 14.09.2022 (announcement BeYou)
