@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.09.2022 (announcement BeYou)
+- Open Newsfeeds are a completely new concept for us that we will test with **BeYou** and that we will also report about in social media posts in the future. 🧡
+
+### 14.09.2022 (announcement BeYou)
 - 😍 **BeYou**'s newsfeed will be public, which means that you can read the newsfeed of public **BeYou** accounts without an account as long as you like.
 
 ### 14.09.2022 (announcement BeYou)
