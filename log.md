@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.09.2022 (announcement BeYou)
+- **BeYou** now uses Cloudflare's technology and infrastructure :)
+
+### 15.09.2022 (announcement BeYou)
 - **BeYou** has been passed on to Google for indexing - Google Search Console 🥳
 
 ### 15.09.2022 (announcement BeYou)
