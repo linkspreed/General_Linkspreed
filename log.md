@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.09.2022 (announcement BeYou)
+- We are now waiting for Cloudflare's name server check for **BeYou** :)
+
+### 15.09.2022 (announcement BeYou)
 - We are now integrating **BeYou** with Cloudflare technology. 🧡
 
 ### 14.09.2022 (announcement BeYou)
