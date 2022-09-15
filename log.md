@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.09.2022 (announcement BeYou)
+- We are now integrating **BeYou** with Cloudflare technology. 🧡
+
 ### 14.09.2022 (announcement BeYou)
 - Now send unlimited invite codes to your friends to invite them to **BeYou** ^^
 
