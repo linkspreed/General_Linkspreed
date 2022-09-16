@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.09.2022 (announcement BeYou)
+- ⚠️ There is a problem with the "Join" button on **BeYou** and the login.  
+- We will fix the error as soon as possible.
+
+### 16.09.2022 (announcement BeYou)
 - https://github.com/linkspreed/BeYou
 - Feel free to leave a star on the official github repo for **BeYou**.
 
