@@ -3,8 +3,8 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.09.2022 (announcement BeYou)
-- The problem on BeYou with the login has been successfully resolved. 
-- There was a misconfiguration between BeYou and Cloudflare.
+- The problem on **BeYou** with the login has been successfully resolved. 
+- There was a misconfiguration between **BeYou** and Cloudflare.
 
 ### 16.09.2022 (announcement BeYou)
 - ⚠️ There is a problem with the "Join" button on **BeYou** and the login.  
