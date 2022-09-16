@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.09.2022 (announcement BeYou)
+- https://github.com/linkspreed/BeYou
+- Feel free to leave a star on the official github repo for **BeYou**.
+
+### 16.09.2022 (announcement BeYou)
 - We are currently building the official Github repository for **BeYou**. 😍⚡️
 
 ### 16.09.2022 (announcement BeYou)
