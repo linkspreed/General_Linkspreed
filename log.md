@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement NodX)
+- We're still doing some work on **NodX**, although the main developments won't start until next weekend.
+
 ### 17.09.2022 (announcement BeYou)
 - https://beyou.cf/content/uploads/photos/2022/09/beyou_406468463da7b823938b5419ffa9b080.gif
 - Our new logo/icon on **BeYou**?  😍
