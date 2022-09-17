@@ -2,15 +2,19 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement BeYou)
+- We are now designing a new logo/icon for **BeYou** :D
+
 ### 16.09.2022 (announcement TinTube)
 - We are working on **TinTube** :)
 
 ### 16.09.2022 (announcement BeYou)
-- We have connected BeYou to an active SMTP email server.  
+- We have connected **BeYou** to an active SMTP email server.  
 - E-mails will be sent from now on... 📧
 
 ### 16.09.2022 (announcement BeYou)
-- We have lifted the limit of 5k friends on Beyou.  Now you can add unlimited friends on BeYou. 😇
+- We have lifted the limit of 5k friends on **Beyou**.  
+- Now you can add unlimited friends on **BeYou**. 😇
 
 ### 16.09.2022 (announcement BeYou)
 - The problem on **BeYou** with the login has been successfully resolved. 
