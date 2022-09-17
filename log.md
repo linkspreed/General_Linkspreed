@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement (linkspreed.com))
+- https://www.linkspreed.com/site-pages/Disclaimer
+- The official Linkspreed disclaimer is now available at linkspreed.com 🧡
+
 ### 17.09.2022 (announcement BeYou)
 - We are now designing a new logo/icon for **BeYou** :D
 
