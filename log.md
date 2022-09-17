@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement BeYou)
+- https://beyou.cf/content/uploads/photos/2022/09/beyou_406468463da7b823938b5419ffa9b080.gif
+- Our new logo/icon on **BeYou**?  😍
+- What do you think of this design and how do you like the idea of a gif?
+
 ### 17.09.2022 (announcement (linkspreed.com))
 - https://www.linkspreed.com/site-pages/Disclaimer
 - The official Linkspreed disclaimer is now available at linkspreed.com 🧡
