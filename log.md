@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement)
+- We're running some test runs with new codes now...
+
 ### 17.09.2022 (announcement BeYou)
 - It will soon be possible to log in to **BeYou** with Google.
 
