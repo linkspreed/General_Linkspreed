@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.09.2022 (announcement NodX)
+- **NodX** - Developments will start next weekend but we might start first test codes before that...
+
+### 17.09.2022 (announcement NodX)
 - We're still doing some work on **NodX**, although the main developments won't start until next weekend.
 
 ### 17.09.2022 (announcement BeYou)
