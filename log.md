@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement BeYou, Kitchat)
+- We're making small fine-tuning changes to **BeYou** and **KitChat**
+
 ### 17.09.2022 (announcement NodX)
 - **NodX** - Developments will start next weekend but we might start first test codes before that...
 
