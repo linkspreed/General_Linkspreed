@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2022 (announcement BeYou)
+- It will soon be possible to log in to **BeYou** with Google.
+
 ### 17.09.2022 (announcement BeYou, Kitchat)
 - We're making small fine-tuning changes to **BeYou** and **KitChat**
 
