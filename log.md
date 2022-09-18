@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.09.2022 (announcement)
+- We are now testing a new Laravel code. 
+- Either it will make a significant contribution to **Linkspreed**, or it will have no value ;)
+
 ### 17.09.2022 (announcement)
 - We're running some test runs with new codes now...
 
