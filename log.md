@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.09.2022 (announcement)
+- We are experimenting with the cloud, AI, machine learning and SaaS.
+
+### 19.09.2022 (announcement)
 - In the last few hours we have used the time to expand and plan many new business and technology ideas.
 
 ### 18.09.2022 (announcement)
