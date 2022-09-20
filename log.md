@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.09.2022 (announcement KitChat, BeYou)
+- We will release the new version 3.6.2 for **KitChat** and **BeYou** very soon.
+
 ### 20.09.2022 (announcement Guju)
 - One of our search engines was offline due to maintenance work.  
 - **Guju** will be available again soon.  
