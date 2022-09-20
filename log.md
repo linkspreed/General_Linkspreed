@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.09.2022 (announcement Linkspreed Drive)
+- Linkspreed Drive is getting its own Github repository :)
+
 ### 19.09.2022 (announcement)
 - We are experimenting with the cloud, AI, machine learning and SaaS.
 
