@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.09.2022 (announcement Guju)
+- We have plans to do some more work on **GuJu**'s frontend in the next few days and create a new logo/icon :D
+
+### 20.09.2022 (announcement Guju)
 - **GuJu** is back!
 
 ### 20.09.2022 (announcement Guju)
