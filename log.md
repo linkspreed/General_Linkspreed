@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.09.2022 (announcement Guju)
+- **GuJu** is back!
+
+### 20.09.2022 (announcement Guju)
 - #ComeBackGuJU
 
 ### 20.09.2022 (announcement Guju)
