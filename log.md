@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.09.2022 (announcement Guju)
+- One of our search engines was offline due to maintenance work.  
+- **Guju** will be available again soon.  
+- Much better.. 🧡💙
+
 ### 20.09.2022 (announcement Linkspreed Drive)
 - Linkspreed Drive is getting its own Github repository :)
 
