@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.09.2022 (announcement Guju)
+- In the next half hour we put a special focus on **GuJu** :)
+
 ### 20.09.2022 (announcement KitChat, BeYou)
 - We will release the new version 3.6.2 for **KitChat** and **BeYou** very soon.
 
