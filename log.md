@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.09.2022 (announcement BeYou, KitChat)
+- https://github.com/linkspreed/Kitchat/blob/main/changelog.md
+- https://github.com/linkspreed/BeYou/blob/main/changelog.md
+
+### 21.09.2022 (announcement BeYou, KitChat)
 - **KitChat** and **BeYou** version 3.6.2 is now live.  
 - You can find the entire changelog on Github.
 
