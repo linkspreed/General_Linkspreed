@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.09.2022 (announcement BeYou, KitChat)
+- We're still testing the update locally and then preparing everything :D
+
 ### 21.09.2022 (announcement KitChat, BeYou)
 - We're releasing version 3.6.2 for **KitChat** and **BeYou** today.
 
