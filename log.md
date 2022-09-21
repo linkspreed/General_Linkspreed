@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.09.2022 (announcement BeYou, KitChat)
+- I am proud to announce that in about 2 hours all development work will be finished and new update 3.6.2 will be available online.
+
+### 21.09.2022 (announcement BeYou, KitChat)
 - We're still testing the update locally and then preparing everything :D
 
 ### 21.09.2022 (announcement KitChat, BeYou)
