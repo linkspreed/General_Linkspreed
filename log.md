@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.09.2022 (announcement)
+- We are currently working to achieve high quality analytics for our websites to identify the popularity of individual tools.
+
 ### 21.09.2022 (announcement BeYou, KitChat)
 - https://github.com/linkspreed/Kitchat/blob/main/changelog.md
 - https://github.com/linkspreed/BeYou/blob/main/changelog.md
