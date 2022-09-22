@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.09.2022 (announcement)
+- We will soon finish our development work on the platform especially for startups. 🧡
+
 ### 22.09.2022 (announcement GuJu)
 - https://twitter.com/twenty4marc/status/1573024229377056768?s=20&t=L5dNlhcybN_63BIC2XfsJg
 
