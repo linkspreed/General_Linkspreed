@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.09.2022 (announcement GuJu)
+- The new logo for **GuJu** is now available.
+
+### 22.09.2022 (announcement GuJu)
 - We are now designing a new logo/icon for **GuJu** :D
 
 ### 22.09.2022 (announcement)
