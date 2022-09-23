@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.09.2022 (announcement Articly)
+- In the following days we will also deal with **Articly** :D
+
 ### 23.09.2022 (announcement)
 - We are now contacting AWS for future projects.
 
