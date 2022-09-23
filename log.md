@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.09.2022 (announcement GuJu)
+- **Guju** now uses the complete Cloudflare infrastructure and is now even faster and more secure.
+
+### 23.09.2022 (announcement GuJu)
 - **GuJu** now gets Cloudflare technology. 😍🧡
 
 ### 22.09.2022 (announcement)
