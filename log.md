@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.09.2022 (announcement Linkspreed, SeedSpreed, ForJu)
+- We are currently working and developing version 4.1.4 for **Linkspreed.com**, **SeedSpreed** and **ForJu**.
+
 ### 23.09.2022 (announcement GuJu)
 - **Guju** now uses the complete Cloudflare infrastructure and is now even faster and more secure.
 
