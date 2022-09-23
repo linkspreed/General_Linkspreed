@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.09.2022 (announcement)
+- We are now contacting AWS for future projects.
+
 ### 23.09.2022 (announcement Linkspreed, SeedSpreed, ForJu)
 - We are currently working and developing version 4.1.4 for **Linkspreed.com**, **SeedSpreed** and **ForJu**.
 
