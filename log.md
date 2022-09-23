@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.09.2022 (announcement Contribution)
+- We have successfully configured and set up the SMTP server for our startup platform.
+
+### 23.09.2022 (announcement Contribution)
 - We are still working on our new platform for startups - Contribution
 
 ### 23.09.2022 (announcement Articly)
