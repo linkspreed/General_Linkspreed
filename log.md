@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2022 (announcement)
+- We continued to work on a few new projects.
+
 ### 24.09.2022 (announcement NodX)
 - In addition, we will now also concentrate on the development work of **NodX** and are now continuing to work on our second decentralized cloud solution. ☁️
 
