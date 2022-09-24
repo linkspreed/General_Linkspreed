@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
+- Version 2.2.8 is now being launched and loaded onto the servers.
+
+### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
 - Version 2.2.8 is now ready and the servers are already ready for launch.
 - We will start the upload shortly.
 
