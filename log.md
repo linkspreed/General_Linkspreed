@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
+- We are now preparing everything for the launch of version 2.2.8 of our streaming platforms.
+
 ### 24.09.2022 (announcement Contribution)
 - Now we're still working a bit on **contribution**.
 
