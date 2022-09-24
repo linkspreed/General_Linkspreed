@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
+- I am proud to announce that today we will finish development work on version 2.2.8 for **StreamValley**, **Showit**, **Shortcut** and **Ples** and will launch the new version at 9pm CEST. 🥳
+
 ### 23.09.2022 (announcement Contribution)
 - We have successfully configured and set up the SMTP server for our startup platform.
 
