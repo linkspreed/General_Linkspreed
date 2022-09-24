@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
+- The entire changelog for the new version (2.2.8) is now available on Github. :D
+
+### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
 - Yay, the new version 2.2.8 for **Streamvalley**, **Shortcut**, **Showit** and **Ples*** is now available.
 
 ### 24.09.2022 (announcement Streamvalley, Showit, Shortcut, Ples)
