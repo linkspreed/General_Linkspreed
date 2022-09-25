@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.09.2022 (announcement Kitchat, BeYou) 
+- We are working on a mini design update for the next few days.
+
 ### 25.09.2022 (announcement) 
 - There are numerous new plans for new platforms that **Linkspreed** will expand, improve and redevelop.
 
