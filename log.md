@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+- We're getting the servers ready for the launch of version 4.1.4.
+
+### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - The code for version 4.1.4 is ready. 🥳
 
 ### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
