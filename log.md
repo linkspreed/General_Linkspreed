@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+- Today we will release version 4.1.4 for **Linkspreed**, **ForJu** and **SeedSpreed**.
+
 ### 24.09.2022 (announcement Articly)
 - Now we are still working on **Articly** :)
 
