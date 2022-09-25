@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 25.09.2022 (announcement NodX)
+### 25.09.2022 (announcement NodX) 
 - We're still working on **NodX**.
 
 ### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
