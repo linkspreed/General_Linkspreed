@@ -2,26 +2,29 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement NodX)
+- We're still working on **NodX**.
+
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - The entire changelog for version 4.1.4 is now available on Github.
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - 🥳 We at **Linkspreed** are proud to announce that version 4.1.4 of **Linkspreed**, **SeedSpreed** and **ForJu** has been released. ✅
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - The launch begins now.  
 - Version 4.1.4 is on the way!
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - The servers and the code are ready for the launch of version 4.1.4 :D
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - We're getting the servers ready for the launch of version 4.1.4.
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - The code for version 4.1.4 is ready. 🥳
 
-### 24.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
+### 25.09.2022 (announcement Linkspreed, ForJu, SeedSpreed)
 - Today we will release version 4.1.4 for **Linkspreed**, **ForJu** and **SeedSpreed**.
 
 ### 24.09.2022 (announcement Articly)
