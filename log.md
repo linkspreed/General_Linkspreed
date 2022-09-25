@@ -3,7 +3,7 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.09.2022 (announcement) 
-- There are numerous new plans for new platforms that Linkspreed will expand, improve and redevelop.
+- There are numerous new plans for new platforms that **Linkspreed** will expand, improve and redevelop.
 
 ### 25.09.2022 (announcement NodX) 
 - We're still working on **NodX**.
