@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 26.09.2022 (announcement)
+### 26.09.2022 (announcement EULA)
+- https://www.linkspreed.com/site-pages/EULA
+
+### 26.09.2022 (announcement EULA)
 - We are now publishing the EULA on **linkspreed**.com.
 
 ### 26.09.2022 (announcement NodX)
