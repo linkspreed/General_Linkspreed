@@ -3,7 +3,7 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.09.2022 (Social Media)
-# Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 26.09.2022 EULA
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 26.09.2022 EULA
 - We published today's social media post.
 
 ### 26.09.2022 (announcement NodX)
