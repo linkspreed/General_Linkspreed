@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.09.2022 (announcement NodX)
+- We keep working on **NodX** :D
+
 ### 25.09.2022 (announcement Kitchat, BeYou) 
 - We are working on a mini design update for the next few days.
 
