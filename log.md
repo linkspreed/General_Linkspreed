@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.09.2022 (announcement BeYou, KitChat)
+- We are now releasing the mini theme update for **BeYou** and **KitChat** that will not go into the changelog.
+
 ### 26.09.2022 (announcement NodX)
 - We keep working on **NodX** :D
 
