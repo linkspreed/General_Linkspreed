@@ -2,6 +2,8 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.09.2022 (announcement NodX)
+- We keep working on **NodX**.
 
 ### 27.09.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 27.09.2022 IceCloud
