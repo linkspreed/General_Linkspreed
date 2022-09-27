@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.09.2022 (announcement)
+- We keep working on new products :)
+
 ### 26.09.2022 (announcement BeYou, KitChat)
 - The design update is here!  
 - Small errors are thus fixed :D
