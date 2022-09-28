@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.09.2022 (announcement Articly)
+- Now we are also working on **Articly** :D
+
 ### 27.09.2022 (announcement NodX)
 - We keep working on **NodX** :D
 
