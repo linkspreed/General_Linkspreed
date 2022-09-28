@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.09.2022 (announcement NodX)
+- We keep working on **NodX** :D
+
 ### 28.09.2022 (announcement NodX)
 - I am happy to announce that the technology behind **NodX** has been successfully completed.  
 - Now it's the front end's turn :D
