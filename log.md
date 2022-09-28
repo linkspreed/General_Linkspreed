@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.09.2022 (announcement Contribution)
+- We are now continuing to work on **Contribution**.tk.  
+- After the launch, however, we will constantly develop and improve the platform. 🙃
+
 ### 28.09.2022 (announcement Articly)
 - **Articly** now gets advanced features of Cloudflare technology.
 
