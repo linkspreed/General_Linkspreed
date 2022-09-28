@@ -6,6 +6,10 @@
 - A little preview :D
 - https://twitter.com/twenty4marc/status/1575194023350136832
 
+### 28.09.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 28.09.2022 Linkspreed uses Cloudflare
+- We published today's social media post about **Linkspreed and Cloudflare**.
+
 ### 28.09.2022 (announcement Contribution)
 - We are now continuing to work on **Contribution**.tk.  
 - After the launch, however, we will constantly develop and improve the platform. 🙃
