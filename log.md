@@ -2,7 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 28.09.2022 (announcement NodX)
+### 29.09.2022 (announcement NodX)
+- We made some changes on the official Github Repository for **BeYou**.
+- https://github.com/linkspreed/BeYou
+
+### 29.09.2022 (announcement NodX)
 - We keep working on **NodX** :D
 
 ### 28.09.2022 (announcement)
