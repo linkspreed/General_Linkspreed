@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.09.2022 (announcement)
+- We're still experimenting with new code. 
+- Let's see what could happen.
+
 ### 29.09.2022 (announcement NodX)
 - Another problem before the completion of **NodX**, which had to do with the encryption of SSL, we were able to eliminate :D
 
