@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.09.2022 (announcement NodX)
+- We keep working on **NodX** :D
+
 ### 28.09.2022 (announcement)
 - We applied for the Cloudflare for Startups program :D
 
