@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.09.2022 (announcement)
+- We are still preparing some Cloud SaaS platforms.
+
 ### 29.09.2022 (announcement Contribution)
 - We're continuing working on **Contribution**.tk ^^
 
