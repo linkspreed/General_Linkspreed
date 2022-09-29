@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.09.2022 (announcement NodX)
+- Thanks to Cloudflare's helpful community, we were able to resolve the issue on **NodX**.
+- https://community.cloudflare.com/t/reset-website-settings-on-cloudflare/422842
+
+### 29.09.2022 (announcement NodX)
 - We made some changes on the official Github Repository for **BeYou**.
 - https://github.com/linkspreed/BeYou
 
