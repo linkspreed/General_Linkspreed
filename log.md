@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.09.2022 (announcement NodX)
+- Another problem before the completion of **NodX**, which had to do with the encryption of SSL, we were able to eliminate :D
+
+### 29.09.2022 (announcement NodX)
 - Thanks to Cloudflare's helpful community, we were able to resolve the issue on **NodX**.
 - https://community.cloudflare.com/t/reset-website-settings-on-cloudflare/422842
 
