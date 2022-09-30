@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.09.2022 (announcement)
+- In our social media post today we will report about the future plans for launches on ProductHunt.
+
+### 30.09.2022 (announcement)
 - We applied to the Cloudflare Workers Launchpad funding program.
 
 ### 29.09.2022 (announcement)
