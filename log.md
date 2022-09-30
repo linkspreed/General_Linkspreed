@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.09.2022 (announcement NodX)
+- We keep working on **NodX** :D
+
 ### 30.09.2022 (announcement)
 - In our social media post today we will report about the future plans for launches on ProductHunt.
 
