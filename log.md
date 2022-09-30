@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.09.2022 (announcement ForJu)
+- We're still working on the new landing page for **ForJu**. 🧑‍💻
+
+### 30.09.2022 (announcement ForJu)
 - We are currently working on a new landing page for **ForJu**.
 
 ### 30.09.2022 (announcement NodX)
