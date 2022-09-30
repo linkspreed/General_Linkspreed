@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.09.2022 (announcement NodX)
+- We're designing a new logo/icon for **NodX**.
+
+### 30.09.2022 (announcement NodX)
 - We keep working on **NodX** :D
 
 ### 30.09.2022 (announcement)
