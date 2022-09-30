@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.09.2022 (announcement ForJu)
+- The new landing page design was enrolled on ForJu. Enjoy it :)
+
+### 30.09.2022 (announcement ForJu)
 - We're still working on the new landing page for **ForJu**. 🧑‍💻
 
 ### 30.09.2022 (announcement ForJu)
