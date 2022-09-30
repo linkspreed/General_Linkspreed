@@ -3,7 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.09.2022 (announcement ForJu)
-- The new landing page design was enrolled on ForJu. Enjoy it :)
+- https://user-images.githubusercontent.com/102324985/193337930-7253fa1f-d893-4967-8954-f9a034a60eda.png
+- The new landing page for **ForJu**.
+
+### 30.09.2022 (announcement ForJu)
+- The new landing page design was enrolled on **ForJu**. 
+- Enjoy it :)
 
 ### 30.09.2022 (announcement ForJu)
 - We're still working on the new landing page for **ForJu**. 🧑‍💻
