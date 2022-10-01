@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.09.2022 (announcement SeedSpreed)
+- We are currently working on a new landing page for **SeedSpreed**.
+
 ### 01.10.2022 (announcement)
 - https://www.producthunt.com/posts/linkspreed
 
