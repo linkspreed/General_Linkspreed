@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+
+### 30.09.2022 (announcement SeedSpreed)
+- The new landing page design was enrolled on **SeedSpreed**. 
+- Enjoy it :)
+
 ### 01.10.2022 (announcement SeedSpreed)
 - https://user-images.githubusercontent.com/102324985/193396442-4622dd27-4791-4178-a56a-4b7b77e44bc8.png
 
