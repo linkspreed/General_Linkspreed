@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.10.2022 (announcement ForJu)
+- Registration via Google is coming back.
+
+### 01.10.2022 (announcement SeedSpreed)
+- Registration via Google is coming back.
+
+### 01.10.2022 (announcement Linkspreed)
+- Registration via Google is coming back.
+
 ### 01.10.2022 (announcement)
 - We are still working on some cloud saas machinelearning platforms. 
 
