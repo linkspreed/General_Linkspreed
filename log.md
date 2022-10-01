@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.10.2022 (announcement)
+- 🙃🥳 I am very proud to announce that the development work on our 3 ML and AI platforms is progressing in fast steps :)
+
+### 01.10.2022 (announcement)
 - We are still working on some cloud saas machinelearning platforms. 
 
 ### 01.10.2022 (announcement ForJu)
