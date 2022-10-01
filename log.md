@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.10.2022 (announcement SeedSpreed)
+- https://user-images.githubusercontent.com/102324985/193396442-4622dd27-4791-4178-a56a-4b7b77e44bc8.png
+
+### 01.10.2022 (announcement SeedSpreed)
 - We are currently working on a new landing page for **SeedSpreed**.
 
 ### 01.10.2022 (announcement)
