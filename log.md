@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.10.2022 (announcement Linkspreed Drive)
+- A new, fresh and simple logo/icon for **Linkspreed Drive** is on the way. 🥳
+
 ### 02.10.2022 (announcement Ondu)
 - **Ondu** - Freelancer Market Place
 
