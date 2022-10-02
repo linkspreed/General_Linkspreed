@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.10.2022 (announcement Ondu)
+- We continue to build **Ondu**, our freelancer platform.
+
 ### 02.10.2022 (announcement Linkspreed Drive)
 - The new logo/icon is now online on **Linkspreed Drive**.
 
