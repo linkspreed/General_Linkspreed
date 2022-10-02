@@ -8,6 +8,10 @@
 ### 01.10.2022 (announcement)
 - We are still working on some cloud saas machinelearning platforms. 
 
+### 01.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 01.10.2022 October with Linkspreed
+- We published today's social media post about **October with Linkspreed**.
+
 ### 01.10.2022 (announcement ForJu)
 - Registration via Google is now possible again.
 
