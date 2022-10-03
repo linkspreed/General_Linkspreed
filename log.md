@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.10.2022 (announcement)
+- Today we developed a lot of new code.
+
 ### 02.10.2022 (announcement)
 - We are working on new platform solutions.
 
