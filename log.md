@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 04.10.2022 Freelancer
+- We published today's social media post about **Freelancer**.
+
 ### 04.10.2022 (annoucement)
 Many new projects in progress.
 
