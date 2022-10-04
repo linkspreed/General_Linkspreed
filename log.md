@@ -5,6 +5,10 @@
 ### 04.10.2022 (annoucement)
 Many new projects in progress.
 
+### 03.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 03.10.2022 German unity day
+- We published today's social media post about **German unity day**.
+
 ### 03.10.2022 (announcement Ondu)
 - Now let's focus on **Ondu**'s code :)
 
