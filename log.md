@@ -12,7 +12,11 @@ Many new projects in progress.
 - Today we developed a lot of new code.
 
 ### 02.10.2022 (announcement)
-- We are working on new platform solutions.
+- We are working on new platform solution.
+
+### 02.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 02.10.2022 Lotig with Google
+- We published today's social media post about **Login with Google**.
 
 ### 02.10.2022 (announcement Ondu)
 - **Ondu** now uses all Cloudflare technology :)
