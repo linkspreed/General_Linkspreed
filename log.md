@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.10.2022 (annoucement)
+Many new projects in progress.
+
 ### 03.10.2022 (announcement Ondu)
 - Now let's focus on **Ondu**'s code :)
 
