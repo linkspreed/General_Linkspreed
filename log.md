@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.10.2022 (annoucement)
+- We are working on new updates for **Linkspreed's analysis tools**.
+
 ### 04.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 04.10.2022 Freelancer
 - We published today's social media post about **Freelancer**.
