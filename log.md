@@ -5,6 +5,10 @@
 ### 06.10.2022 (annoucement Toolkit)
 - We will be releasing an update for **Toolkit** very soon.
 
+### 06.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 06.10.2022 AI Chatbot
+- We published today's social media post about **AI Chatbot**.
+
 ### 06.10.2022 (annoucement)
 - Development on our own advertising network is progressing well.
 
