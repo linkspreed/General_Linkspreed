@@ -9,6 +9,10 @@
 - **Cloud2Go** is back again! 
 - We relaunched successfully :)
 
+### 05.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 05.10.2022 Overview on Github
+- We published today's social media post about **the overview on Github**.
+
 ### 05.10.2022 (annoucement Cloud2Go)
 - We will now relaunch **Cloud2Go**.
 
