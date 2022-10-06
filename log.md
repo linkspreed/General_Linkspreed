@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.10.2022 (annoucement)
+- We are currently working diligently on our own advertising network.
+
 ### 05.10.2022 (annoucement Cloud2Go)
 - **Cloud2Go** is back again! 
 - We relaunched successfully :)
