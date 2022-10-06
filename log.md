@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.10.2022 (annoucement)
+- Development on our own advertising network is progressing well.
+
+### 06.10.2022 (annoucement)
 - We're still working on our ad network.
 
 ### 06.10.2022 (annoucement)
