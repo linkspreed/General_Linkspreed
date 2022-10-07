@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 06.10.2022 (annoucement)
+### 07.10.2022 (annoucement Toolkit)
+- We are now finishing work on the new version for **Toolkit**.ga and then starting the launch. 😀
+
+### 07.10.2022 (annoucement)
 - We did some more work on our advertising network.
 
 ### 06.10.2022 (annoucement Toolkit)
