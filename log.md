@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.10.2022 (announcement Toolkit)
+- We are now doing some extra special work for **Toolkit**.
+
 ### 07.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 07.10.2022 Toolkit v7.0.0
 - We published today's social media post about **Toolkit v7.0.0**.
