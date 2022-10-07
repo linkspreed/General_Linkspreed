@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.10.2022 (announcement)
+- We are proud to announce that soon some biopages will get a new and powerful update. 😀
+- We will probably release the new update next week.
+
 ### 07.10.2022 (announcement Ondu)
 - What do you think of **Ondu**'s new logo and icon?
 - Icon: https://user-images.githubusercontent.com/102324985/194636694-cf9c7388-3240-45e1-ab01-18fc4a8d5c02.png
