@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 07.10.2022 Toolkit v7.0.0
+- We published today's social media post about **Toolkit v7.0.0**.
+
 ### 07.10.2022 (annoucement Toolkit)
 - The full **Toolkit** changelog is now available on github.
 - https://github.com/linkspreed/ToolKit/blob/main/changelog.md
