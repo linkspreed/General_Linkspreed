@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.10.2022 (annoucement Toolkit)
+- The full **Toolkit** changelog is now available on github.
+- https://github.com/linkspreed/ToolKit/blob/main/changelog.md
+
+### 07.10.2022 (annoucement Toolkit)
 - Version 7.0.0 of **Toolkit** has been released successfully. ❤️
 - Use now all our 120+ free tools on https://toolkit.ga. 🚀
 
