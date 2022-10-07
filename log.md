@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.10.2022 (announcement Ondu)
+- We keep working on **Ondu**'s code :)
+
 ### 07.10.2022 (announcement Toolkit)
 - Now enjoy all 120+ tools from Toolkit completely free. 🚀
 - You only need an account to use the API for developers (unlimited usage). 💻
