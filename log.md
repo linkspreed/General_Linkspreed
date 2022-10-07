@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.10.2022 (annoucement)
+- We did some more work on our advertising network.
+
 ### 06.10.2022 (annoucement Toolkit)
 - Hard coding on **Toolkit** to release a great update very soon. 🚀
 
