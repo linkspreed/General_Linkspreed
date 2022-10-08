@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.10.2022 (announcement Toolkit)
+- Let's see how we might develop an affiliate plugin for Toolkit. 🤑
+- Maybe it could be useful for the account for users and developers of the API.
+
 ### 07.10.2022 (announcement)
 - We are proud to announce that soon some biopages will get a new and powerful update. 😀
 - We will probably release the new update next week.
