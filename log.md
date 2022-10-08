@@ -2,12 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.10.2022 (announcement Toolkit)
+- We're still doing general work on **Toolkit**.
+
 ### 08.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 08.10.2022 AR/VR
 - We published today's social media post about **AR/VR**.
 
 ### 08.10.2022 (announcement Toolkit)
-- Let's see how we might develop an affiliate plugin for Toolkit. 🤑
+- Let's see how we might develop an affiliate plugin for **Toolkit**. 🤑
 - Maybe it could be useful for the account for users and developers of the API.
 
 ### 07.10.2022 (announcement)
