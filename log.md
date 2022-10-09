@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.10.2022 (announcement Toolkit)
+- We will now complete the general work on **Toolkit**.
+
 ### 08.10.2022 (announcement)
 - https://drive.linkspreed.com/storage/linkspreed_network.pdf
 
