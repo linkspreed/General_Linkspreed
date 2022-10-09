@@ -9,6 +9,9 @@
 ### 09.10.2022 (announcement)
 - We continue to work on our advertising network.
 
+### 09.10.2022 (announcement Linkspreed Status)
+- We have developed a status page for the Linkspreed platforms.
+
 ### 09.10.2022 (announcement Toolkit)
 - We will now complete the general work on **Toolkit**.
 
