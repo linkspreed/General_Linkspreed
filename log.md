@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.10.2022 (announcement)
+- I'm super proud to introduce Linkspreed Status very soon. 
+- Get real time data about the availability of Linkspreed's services.
+
 ### 09.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 09.10.2022 Linkspreed Status
 - We published today's social media post about **Linkspreed Status**.
