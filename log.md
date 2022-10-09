@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.10.2022 (announcement Linkspreed Status)
+- We are working extremely hard on the new **Linkspreed Status** Repository.
+
+### 09.10.2022 (announcement Linkspreed Status)
 - https://github.com/linkspreed/linkspreed_uptime
 
 ### 09.10.2022 (announcement)
