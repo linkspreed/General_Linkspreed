@@ -2,8 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.10.2022 (announcement Linkspreed Status)
+- https://github.com/linkspreed/linkspreed_uptime
+
 ### 09.10.2022 (announcement)
-- I'm super proud to introduce Linkspreed Status very soon. 
+- I'm super proud to introduce **Linkspreed Status** very soon. 
 - Get real time data about the availability of Linkspreed's services.
 
 ### 09.10.2022 (Social Media)
