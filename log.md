@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post 09.10.2022 Linkspreed Status
+- We published today's social media post about **Linkspreed Status**.
+
 ### 09.10.2022 (announcement)
 - We continue to work on our advertising network.
 
