@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 11.10.2022 (announcement Linkspreed Status)
+## 11.10.2022 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed (STILL IN WORKING PROGRESS)
 
 ## 11.10.2022 (announcement Linkspreed Status)
