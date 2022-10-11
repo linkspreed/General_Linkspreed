@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.10.2022 (announcement Linkspreed Status)
+- Start discussing about the **Linkspreed** Live **Status**.
+- https://github.com/linkspreed/linkspreed_uptime/discussions
+
 ### 10.10.2022 (announcement SiteSpace)
 - A little further development on **SiteSpace**, a new project.
 
