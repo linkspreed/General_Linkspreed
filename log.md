@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.10.2022 (announcement SiteSpace)
+- A little further development on **SiteSpace**, a new project.
+
 ### 11.10.2022 (announcement Biospreed)
 - We are proud to announce the Biospreed Github Repository today. 🥳
 
