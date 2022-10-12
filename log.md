@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
+- Good news! 🥳
+- Version 1.4.9 is now available. 💯
+
+### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
 - We will now start the launch of version 1.4.9 on our servers.
 
 ### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
