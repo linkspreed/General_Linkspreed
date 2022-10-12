@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
+- We are very pleased to announce that we will be releasing version 1.4.9 for **Soundchest**, **MusicCloud** and **YourPod** now in the next few hours. 🚀🥳
+
 ### 11.10.2022 (announcement SiteSpace)
 - A little further development on **SiteSpace**, a new project.
 
