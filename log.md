@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed
+- The Github repository is now ready!
+
 ### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
 - The entire changelog is now available on Github.
 
