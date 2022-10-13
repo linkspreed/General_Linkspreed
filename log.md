@@ -9,6 +9,10 @@
 - https://github.com/linkspreed/Cloud2Go
 
 ### 13.10.2022 (announcement Snoogie)
+- We launched **Snoogie** successfully on our server.
+- The update is now available for anyone.
+
+### 13.10.2022 (announcement Snoogie)
 - The launch begins now.
 - Version 25.0.0 for **Snoogie** is coming soon.
 
