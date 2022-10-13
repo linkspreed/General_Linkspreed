@@ -14,6 +14,9 @@
 - https://github.com/linkspreed/Cloudspreed
 
 ### 13.10.2022 (announcement Snoogie)
+- I'm so proud to announce that **Snoogie** 25.0.0 is now available for everyone.
+
+### 13.10.2022 (announcement Snoogie)
 - The **Snoogie** CronJob runs every 10 minutes on our server...
 
 ### 13.10.2022 (announcement Snoogie)
