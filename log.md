@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.10.2022 (announcement Snoogie)
+- The launch begins now.
+- Version 25.0.0 for **Snoogie** is coming soon.
+
+### 13.10.2022 (announcement Snoogie)
 - The code and servers are ready to launch v25!
 
 ### 13.10.2022 (announcement Snoogie)
