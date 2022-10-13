@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Snoogie)
+- Snoogie's Github Repo is available for the public :)
+- https://github.com/linkspreed/Snoogie
+
 ### 13.10.2022 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed
 - The Github repository is now ready!
