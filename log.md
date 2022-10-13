@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Cloud2Go)
+- https://github.com/linkspreed/Cloud2Go
+
 ### 13.10.2022 (announcement Snoogie)
 - The launch begins now.
 - Version 25.0.0 for **Snoogie** is coming soon.
