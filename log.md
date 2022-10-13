@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Snoogie)
+- Check out the entire changelog of **Snoogie** on Github.
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+
 ### 13.10.2022 (announcement Cloud2Go)
 - Check out the new Github Repository for **Cloud2Go**.
 
