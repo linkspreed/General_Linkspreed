@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement KitChat)
+- We are working on a small update.
+
+### 13.10.2022 (announcement BeYou)
+- We are working on a small update.
+
 ### 13.10.2022 (announcement Snoogie)
 - We have adjusted the Free Unlimited plan on **Snoogie** according to the new features. 😍 
 - Existing users will automatically receive the new functions so that everyone can benefit from version 25.0.0. 🚀
