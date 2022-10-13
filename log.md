@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Adseasy)
+- We started working on Adseasy's GitHb Repo.
+
 ### 13.10.2022 (announcement Snoogie)
 - Snoogie's Github Repo is available for the public :)
 - https://github.com/linkspreed/Snoogie
