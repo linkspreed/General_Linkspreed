@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Cloudspreed)
+- Check out the new Github Repository for **Cloudspreed**.
+- https://github.com/linkspreed/Cloudspreed
+
 ### 13.10.2022 (announcement Snoogie)
 - The **Snoogie** CronJob runs every 10 minutes on our server...
 
