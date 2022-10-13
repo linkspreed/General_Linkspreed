@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2022 (announcement Snoogie)
+- We're doing various checks and minor work on **Snoogie** now :)
+
 ### 13.10.2022 (announcement Toolkit)
 - We're working on some new feature for version 8.0.0.
 
