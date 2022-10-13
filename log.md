@@ -5,6 +5,10 @@
 ### 13.10.2022 (announcement Toolkit)
 - We're working on some new feature for version 8.0.0.
 
+### 13.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 13.10.2022 - Music streaming 1.4.9
+- We published today's social media post about **Music streaming 1.4.9**.
+
 ### 13.10.2022 (announcement Cloudspreed)
 - Check out the new Github Repository for **Cloudspreed**.
 - https://github.com/linkspreed/Cloudspreed
@@ -50,6 +54,10 @@
 ### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
 - The entire changelog is now available on Github.
 
+### 12.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 12.10.2022 - Linkspreed Status
+- We published today's social media post about **Linkspreed Status**.
+
 ### 12.10.2022 (announcement Soundchest, MusicCloud, Yourpod)
 - Good news! 🥳
 - Version 1.4.9 is now available. 💯
@@ -65,6 +73,10 @@
 
 ### 11.10.2022 (announcement SiteSpace)
 - A little further development on **SiteSpace**, a new project.
+
+### 11.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 11.10.2022 - New Updates
+- We published today's social media post about **New updates**.
 
 ### 11.10.2022 (announcement Biospreed)
 - We are proud to announce the Biospreed Github Repository today. 🥳
