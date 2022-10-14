@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 14.10.2022 - Snoogie 25.0.0
+- We published today's social media post about **Snoogie 25.0.0**.
+
 ### 13.10.2022 (announcement KitChat)
 - We are working on a small update.
 
