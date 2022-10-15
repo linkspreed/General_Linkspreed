@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 15.10.2022 - Biospreed
+- We published today's social media post about **Biospreed**.
+
 ### 15.10.2022 (announcement RealPin)
 - We continue to work on **RealPin**.
 
