@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.10.2022 (announcement RealPin)
+- We continue to work on **RealPin**.
+
 ### 15.10.2022 (announcement)
 - We are now working more on RealPin.
 
