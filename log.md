@@ -5,8 +5,8 @@
 ### 15.10.2022 (announcement RealPin)
 - We continue to work on **RealPin**.
 
-### 15.10.2022 (announcement)
-- We are now working more on RealPin.
+### 15.10.2022 (announcement RealPin)
+- We are now working more on **RealPin**.
 
 ### 15.10.2022 (announcement)
 - We continued to work on our decentralized cloud solutions.
