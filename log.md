@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.10.2022 (announcement)
+- We have developed some nice plugins for some platforms.
+
 ### 15.10.2022 (announcement Linkspreed Panel)
 - We are working on a page that will show all Linkspreed's Github repositories.
 
