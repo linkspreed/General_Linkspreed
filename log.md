@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.10.2022 (announcement Snoogie)
+- We are currently working on a plugin for an affiliate and team function for **Snoogie** ^^
+
 ### 15.10.2022 (announcement RealPin)
 - Almost all features have been released on RealPin now.
 
