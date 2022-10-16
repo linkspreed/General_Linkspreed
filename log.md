@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.10.2022 (announcement Ondu)
+- **Ondu**'s development work is progressing relatively quickly. 😍🥳
+
+### 16.10.2022 (announcement Ondu)
 - We will soon launch **Ondu**'s internal version 1.2 before we publish the platform.
 
 ### 16.10.2022 (announcement Snoogie)
