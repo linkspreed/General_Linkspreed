@@ -5,6 +5,10 @@
 ### 16.10.2022 (announcement UpNode)
 - We are currently putting the entire focus of our development work on **UpNode**.
 
+### 16.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 16.10.2022 - RealPin
+- We published today's social media post about **RealPin**.
+
 ### 16.10.2022 (announcement Ondu)
 - **Ondu**'s development work is progressing relatively quickly. 😍🥳
 
