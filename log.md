@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.10.2022 (announcement UpNode)
+- We are currently putting the entire focus of our development work on **UpNode**.
+
 ### 16.10.2022 (announcement UpNode)
 - We are currently putting the entire focus of our development work on **UpNode**.
 
