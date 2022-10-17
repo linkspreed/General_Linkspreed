@@ -6,6 +6,10 @@
 - Soon we will introduce UpNode v18. 😎
 - A whole new experience! 🥳🚀
 
+### 17.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 17.10.2022 - Linkspreed is environmentally friendly
+- We published today's social media post about **Linkspreed is environmentally friendly**.
+
 ### 17.10.2022 (announcement UpNode)
 - **UpNode** is heading straight for version 18.0.0.
 
