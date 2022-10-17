@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.10.2022 (announcement UpNode)
+- Soon we will introduce UpNode v18. 😎
+- A whole new experience! 🥳🚀
+
+### 17.10.2022 (announcement UpNode)
 - **UpNode** is heading straight for version 18.0.0.
 
 ### 17.10.2022 (announcement UpNode)
