@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.10.2022 (announcement UpNode)
+- The mock test run through **UpNode** was more than satisfactory :D
+
+### 17.10.2022 (announcement UpNode)
 - We are now going through a full test run of **UpNode**.
 
 ### 17.10.2022 (announcement)
