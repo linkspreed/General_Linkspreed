@@ -2,11 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.10.2022 (announcement UpNode)
+- We are now going through a full test run of **UpNode**.
+
 ### 17.10.2022 (announcement)
 - We are constantly working on new updates.
 
 ### 17.10.2022 (announcement UpNode)
-- Soon we will introduce UpNode v18. 😎
+- Soon we will introduce **UpNode** v18. 😎
 - A whole new experience! 🥳🚀
 
 ### 17.10.2022 (Social Media)
