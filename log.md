@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.10.2022 (announcement Analytix)
+- The servers and code are ready for the new update!
+
+### 18.10.2022 (announcement Snippite)
+- The servers and code are ready for the new update!
+
+### 18.10.2022 (announcement Analytix)
 - We will now launch and release version 3.4.0 for **Analytix**.
 
 ### 18.10.2022 (announcement Snippite)
