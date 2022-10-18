@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.10.2022 (announcement Snippite)
+- We are working on an update
+
+### 18.10.2022 (announcement Analytix)
+- We are working on an update
+
 ### 17.10.2022 (announcement UpNode)
 - The mock test run through **UpNode** was more than satisfactory :D
 
