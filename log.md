@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.10.2022 (announcement)
+- We're working on some new platforms and updates :)
+
 ### 18.10.2022 (announcement Analytix)
 - The entire changelog up to version 3.4.0 is now available on Github.
 - https://github.com/linkspreed/Analytix/blob/main/changelog.md
