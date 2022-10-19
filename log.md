@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+
+- We focus on fixing **MyDancX**'s bug.
+
 ### 19.10.2022 (announcement RealPin)
 - RealPin has been added successfully to Cloudflare.
 
