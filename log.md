@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.10.2022 (announcement)
+- We're making some further researches on Cloudflare's Page Rules.
+
 ### 19.10.2022 (announcement Cloud2Go, MyDancX)
 - **Cloud2Go** and **MyDancX** are temporarily offline. 😕
 
