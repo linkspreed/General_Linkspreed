@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.10.2022 (announcement RealPin)
+- RealPin has been added successfully to Cloudflare.
+
+### 19.10.2022 (announcement RealPin)
 - We're adding **RealPin** to Cloudflare :)
 
 ### 19.10.2022 (announcement)
