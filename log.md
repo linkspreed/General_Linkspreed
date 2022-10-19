@@ -2,11 +2,17 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+
+
 ### 19.10.2022 (announcement)
 - A new innovative idea from **Linkspreed** is in progress.
 
 ### 18.10.2022 (announcement)
-- We're working on some new platforms and updates :)
+- We're working on some new platforms and updates :)#
+
+### 18.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 18.10.2022 - New Plugins
+- We published today's social media post about **New Plugins**.
 
 ### 18.10.2022 (announcement Analytix)
 - The entire changelog up to version 3.4.0 is now available on Github.
