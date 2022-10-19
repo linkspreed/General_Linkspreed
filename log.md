@@ -2,7 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-
+### 19.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 19.10.2022 - Analytix & Snippite v3.4.0
+- We published today's social media post about **Analytix & Snippite v3.4.0**.
 
 ### 19.10.2022 (announcement)
 - A new innovative idea from **Linkspreed** is in progress.
