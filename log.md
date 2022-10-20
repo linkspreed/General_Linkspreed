@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.10.2022 (announcement Shortrack)
+- The code for **Shortrack** v4.8.0 is ready for launch.
+
 ### 20.10.2022 (announcement SnapLink)
 - The code for **SnapLink** v4.8.0 is ready for launch.
 
