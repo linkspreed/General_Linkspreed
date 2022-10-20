@@ -11,6 +11,10 @@
 ### 20.10.2022 (announcement SoundChest)
 - We continue to work on **SoundChest**.
 
+### 20.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 20.10.2022 - The 3 golden rules
+- We published today's social media post about **The 3 golden rules**.
+
 ### 20.10.2022 (announcement SnapLink)
 - The servers are ready for the launch of v4.8.0.
 
