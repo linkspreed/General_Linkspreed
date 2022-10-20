@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.10.2022 (announcement SeedSpreed)
+- We're going to publish a theme update (v2.6.3), which will solve some minor issues.
+
 ### 20.10.2022 (announcement Linkspreed)
 - We're going to publish a theme update (v2.6.3), which will solve some minor issues.
 
