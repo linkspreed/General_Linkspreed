@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-
+### 19.10.2022 (announcement MyDancX)
 - We focus on fixing **MyDancX**'s bug.
 
 ### 19.10.2022 (announcement RealPin)
