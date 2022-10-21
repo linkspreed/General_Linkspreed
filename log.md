@@ -5,6 +5,10 @@
 ### 21.10.2022 (announcement Rank)
 - We will update **Rank** to version 1.8.0.
 
+### 21.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 21.10.2022 - Social Networks for Music
+- We published today's social media post about **Social Networks for Music**.
+
 ### 20.10.2022 (announcement SnapLink)
 - We are now beginning the launch of version 4.8.
 
