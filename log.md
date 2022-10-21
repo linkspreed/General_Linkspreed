@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.10.2022 (announcement Rank)
+- The launch of version 1.8.0 of **Rank** was successful! 🥳
+- The new update is live now :)
+- https://rank.ga 🔗
+
+### 21.10.2022 (announcement Rank)
 - We are now starting the launch of v1.8.0.
 
 ### 21.10.2022 (announcement Rank)
