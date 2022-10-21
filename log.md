@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.10.2022 (announcement Biospreed)
+**Biospreed** gets a big update today - version 11.0.0 will be updated to version 25.1.0. 😍
+
 ### 21.10.2022 (announcement Rank)
 -https://github.com/linkspreed/Rank/blob/main/changelog.md
 - The entire changelog is now available on Github.
