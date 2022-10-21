@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.10.2022 (announcement Rank)
+- We will update **Rank** to version 1.8.0.
+
 ### 20.10.2022 (announcement SnapLink)
 - We are now beginning the launch of version 4.8.
 
