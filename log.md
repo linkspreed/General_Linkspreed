@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.10.2022 (announcement Rank)
+- The server and code for the new version are now ready for launch.
+
+### 21.10.2022 (announcement Rank)
 - We will update **Rank** to version 1.8.0.
 
 ### 21.10.2022 (Social Media)
