@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.10.2022 (announcement)
+- We have developed new business models for **Linkspreed**.
+
 ### 22.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 22.10.2022 - Biospreed 25.1.0
 - We published today's social media post about **Biospreed 25.1.0**.
