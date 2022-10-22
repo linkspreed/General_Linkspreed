@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.10.2022 (announcement Linkspreed Status)
+- We're making some final fine-tuning to **status.linkspreed.com**.
+
 ### 22.10.2022 (announcement)
 - We have developed new business models for **Linkspreed**.
 
