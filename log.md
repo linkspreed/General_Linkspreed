@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.10.2022 (announcement Linkspreed Status)
+- We have now completed the small changes in the README.md file.
+- https://github.com/linkspreed/linkspreed_uptime
+
+### 22.10.2022 (announcement Linkspreed Status)
 - We're making some final fine-tuning to **status.linkspreed.com**.
 
 ### 22.10.2022 (announcement)
