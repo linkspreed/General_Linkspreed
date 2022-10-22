@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.10.2022 (announcement Biospreed)
+- We are currently working on developing 3 plugins for **Biospreed**.
+
 ### 22.10.2022 (announcement Grown)
 - We worked a bit on **Grown**.
 
