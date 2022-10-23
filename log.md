@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 22.10.2022 (announcement Web5)
+### 23.10.2022 (announcement Web5)
 - We continued to work on **Web5**.
 
 ### 22.10.2022 (announcement)
