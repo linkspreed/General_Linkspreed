@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.10.2022 (announcement Linklab)
+- We will release **Linklab** v19.0.0 now. 🙃
+
 ### 23.10.2022 (announcement Web5)
 - We continued to work on **Web5**.
 
