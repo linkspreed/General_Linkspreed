@@ -5,6 +5,10 @@
 ### 23.10.2022 (announcement Web5)
 - We continued to work on **Web5**.
 
+### 23.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 23.10.2022 - Linkspreed on LinkedIn
+- We published today's social media post about **Linkspreed on LinkedIn**.
+
 ### 22.10.2022 (announcement)
 - The check of our platforms was successful! 🥳
 
