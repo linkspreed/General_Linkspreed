@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.10.2022 (announcement SoundChest)
+- We're still working on **SoundChest** a bit.
+
 ### 23.10.2022 (announcement)
 - We will release a major update for our clouds in the coming weeks.
 
