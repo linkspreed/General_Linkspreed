@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.10.2022 (announcement Biospreed)
+- We are now launching a few plugins for **Biospreed**.
+
 ### 23.10.2022 (announcement LinkLab)
 - https://github.com/linkspreed/LinkLab/blob/main/changelog.md
 - The entire changelog is now available on Github.
