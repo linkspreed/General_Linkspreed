@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.10.2022 (announcement)
+- We bring structure to the system behind **Linkspreed**.
+
 ### 24.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 24.10.2022 - 2 Plugins
 - We published today's social media post about **2 Plugins**.
