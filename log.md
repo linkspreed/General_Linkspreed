@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.10.2022 (Social Media)
+### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 24.10.2022 - 2 Plugins
+- We published today's social media post about **2 Plugins**.
+
 ### 23.10.2022 (announcement SoundChest)
 - Some small server configurations have been made to **Soundchest**'s servers to make the platform even more secure for users. 😎
 
