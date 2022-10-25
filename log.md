@@ -6,7 +6,7 @@
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 25.10.2022 - Rank 1.8.0
 - We published today's social media post about **Rank 1.8.0**.
 
-### 25.10.2022 (announcement)
+### 25.10.2022 (announcement Gogola)
 - We're working on the **Gogola** maintance.
 
 ### 24.10.2022 (announcement)
