@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.10.2022 (announcement Gogola)
+- We're still working on **Gogola**.
+
 ### 25.10.2022 (Social Media)
 ### Instagram/Facebook/Twitter/Pinterest/Reddit/TikTok/YT Post - 25.10.2022 - Rank 1.8.0
 - We published today's social media post about **Rank 1.8.0**.
