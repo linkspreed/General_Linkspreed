@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.10.2022 (announcement Gogola)
+- **Gogola** is back online.
+- Enjoy the search and news engine again! :)
+
+### 25.10.2022 (announcement Gogola)
 - We're still working on **Gogola**.
 
 ### 25.10.2022 (Social Media)
