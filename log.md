@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.10.2022 (announcement Gogola)
+- We finished working on **Gogola**.
+
+### 25.10.2022 (announcement Gogola)
 - We're doing some researches and monitoring.
 - You can still enjoy and use the service.
 
