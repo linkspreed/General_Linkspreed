@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.10.2022 (announcement Tuit)
+- Whoops, looked like the **Tuit** logo was gone.😜
+- It's back now - and even more beautiful :D
+
 ### 25.10.2022 (announcement SiteSpace)
 - Tomorrow we're starting the last step of the **SiteSpace** development! :)
 
