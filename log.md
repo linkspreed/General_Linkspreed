@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.10.2022 (announcement Sitespace)
+- As we promised before, we are now working on **Sitespace** to be ready soon. 🔗
+
 ### 26.10.2022 (announcement)
 - We kept working on a cool SaaS chatboot.
 
