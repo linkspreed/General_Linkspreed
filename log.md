@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.10.2022 (announcement Linkspreed Drive)
+- The release date of the new version is getting closer.
+
 ### 27.10.2022 (announcement Linkspreed Photos)
 - The release date of the new version is getting closer.
 
