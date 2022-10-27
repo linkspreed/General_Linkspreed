@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.10.2022 (announcement Toolkit)
+**Toolkit** gets a big update today - we are going to launch v9.0.0. 😍
+
 ### 27.10.2022 (announcement Cloudspreed)
 - The release date of the new version is getting closer.
 
