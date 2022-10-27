@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 27.10.2022 (IceCloud)
+### 27.10.2022 (announcement ShareNode)
+- The release date of the new version is getting closer.
+
+### 27.10.2022 (announcement IceCloud)
 - The release date of the new version is getting closer.
 
 ### 27.10.2022 (announcement)
