@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.10.2022 (announcement Sitespace)
+- Currently working on **Sitespace**.
+
 ### 27.10.2022 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
 - The entire changelog is now available on Github.
