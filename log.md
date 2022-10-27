@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 27.10.2022 (announcement Sitespace)
+- https://user-images.githubusercontent.com/102324985/198358853-c2a9ea44-2ca7-43e9-b848-5c8890a768aa.png
+- We're designing the **SiteSpace** logo.
+
+### 27.10.2022 (announcement Sitespace)
 - Currently working on **Sitespace**.
 
 ### 27.10.2022 (announcement Toolkit)
