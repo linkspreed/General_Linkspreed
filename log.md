@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 27.10.2022 (announcement)
+- Further researches on cloud updates. :D
+
+### 27.10.2022 (announcement)
 - We did some organisational stuff.
 
 ### 27.10.2022 (announcement)
