@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.10.2022 (announcement SoundChest)
+- We're going to do a check now.
+
 ### 28.10.2022 (announcement YourPod)
 - We're going to do a check now.
 
