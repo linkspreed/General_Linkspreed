@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.10.2022 (announcement)
+- We now offer free Linkspreed support via WhatsApp.
+- +49 1776664219
+
 ### 28.10.2022 (announcement Spypy)
 - https://github.com/linkspreed/Spypy/blob/main/changelog.txt
 - The entire changelog is now available on Github.
