@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.10.2022 (announcement Linkspreed)
+- We're still working a little further on **Ondu**.
+
 ### 27.10.2022 (announcement Linkspreed)
 - We're building a future part for **Linkspreed**.
 
