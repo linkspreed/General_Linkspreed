@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.10.2022 (announcement MusicCloud)
+- We're still working on **MusicCloud**.
+
 ### 28.10.2022 (announcement YourPod)
 - **YourPod** now uses the ffmpeg system on our servers.
 
