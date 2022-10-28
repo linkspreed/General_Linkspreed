@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.10.2022 (announcement Spypy)
+- The servers are now ready for the launch of version 17.0.0 for **Spypy**.
+
+### 28.10.2022 (announcement Spypy)
 - The code is now ready for the launch of version 17.0.0 for **Spypy**.
 
 ### 28.10.2022 (announcement Spypy)
