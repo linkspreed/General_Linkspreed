@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.10.2022 (announcement YourPod)
+- You can now also register/login to **YourPod** with your own Linkspreed account.
+
+### 28.10.2022 (announcement YourPod)
 - We're still working on **YourPod**.
 
 ### 28.10.2022 (announcement)
