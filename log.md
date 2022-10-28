@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.10.2022 (announcement Spypy)
+- https://github.com/linkspreed/Spypy/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 28.10.2022 (announcement Spypy)
 - The launch of version 17.0.0 of **Spypy** was successful! 🥳
 - The new update is live now :)
 - https://spypy.cf 🔗
