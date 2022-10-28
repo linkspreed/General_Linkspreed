@@ -3,7 +3,7 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.10.2022 (announcement Ondu)
-- We're developing for **Spypy**.
+- We're developing new codes for **Spypy**.
 
 ### 28.10.2022 (announcement Ondu)
 - We're still working a little further on **Ondu**.
