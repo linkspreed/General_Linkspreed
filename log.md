@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.10.2022 (announcement Spypy)
+**Spypy** gets a big update today - we are going to launch v17.0.0. 😍
+
+### 28.10.2022 (announcement Spypy)
 - We're developing new codes for **Spypy**.
 
 ### 28.10.2022 (announcement Ondu)
