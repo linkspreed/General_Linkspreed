@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.10.2022 (announcement Gogola)
+- We are now switching the nameservers from **Gogola** back to Cloudflare, as the site has been working successfully again for a few days and there were no further problems.
+
 ### 29.10.2022 (announcement MyDancX)
 - https://user-images.githubusercontent.com/102324985/198837706-c1bc0752-8886-4fd4-ab46-4bda3d6c785e.png
 - What do you think about the new **MyDancX** logo?
