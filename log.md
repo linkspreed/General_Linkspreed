@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.10.2022 (announcement Deepmind)
+- We're developing an intelligent analytics platform for developer - running on the newest technology.
+
 ### 29.10.2022 (announcement Gogola)
 - We are now switching the nameservers from **Gogola** back to Cloudflare, as the site has been working successfully again for a few days and there were no further problems.
 
