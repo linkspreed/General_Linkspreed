@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.10.2022 (announcement Gogola)
+- **Gogola** is back online!
+- The nameservers were changed successfully.
+
 ### 29.10.2022 (announcement Deepmind)
 - We're developing an intelligent analytics platform for developer - running on the newest technology.
 
