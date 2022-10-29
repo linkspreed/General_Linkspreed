@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.10.2022 (announcement Gogola)
+- We are now configuring **Gogola** with all Cloudflare technology.
+
+### 29.10.2022 (announcement Gogola)
 - **Gogola** is back online!
 - The nameservers were changed successfully.
 
