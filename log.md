@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement Deepmind)
+- We continue working on **Deepmind**.
+
 ### 30.10.2022 (announcement RealPin)
 - We finished working on the fundamental code of **RealPin**, but we are going to work on future updates.
 
