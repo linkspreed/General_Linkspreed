@@ -2,6 +2,13 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement)
+- The time has come! 🚀
+- We are now releasing version 2.2.7 for the following clouds ☁️: 
+- ✅ Web5, 
+- ✅ ShareNode and 
+- ✅ IceCloud
+
 ### 30.10.2022 (announcement Spypy)
 - We're working on **Spypy**.
 
