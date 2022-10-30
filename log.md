@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement Spypy)
+- We're working on **Spypy**.
+
 ### 30.10.2022 (announcement Deepmind)
 - We continue working on **Deepmind**.
 
