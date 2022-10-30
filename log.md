@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement Linklab)
+- We've run a few tests of **Linklab**'s implementations on other websites and are proud to confirm that all **Linklab**'s implementation offerings work flawlessly.
+
 ### 30.10.2022 (announcement SiteSpace)
 - Google oAuth is now available on **SiteSpace**.
 - https://user-images.githubusercontent.com/102324985/198879407-2c9bb079-5718-43a9-8ee0-58659d2f6aa6.png
