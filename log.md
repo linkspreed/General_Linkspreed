@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement IceCloud)
+**IceCloud** gets a big update today - we are going to launch v2.2.7. 😍
+
 ### 30.10.2022 (announcement)
 - The time has come! 🚀
 - We are now releasing version 2.2.7 for the following clouds ☁️: 
