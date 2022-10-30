@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement Web5)
+**Web5** gets a big update today - we are going to launch v2.2.7. 😍
+
 ### 30.10.2022 (announcement ShareNode)
 - https://github.com/linkspreed/ShareNode/blob/main/changelog.md
 - The entire changelog is now available on Github.
