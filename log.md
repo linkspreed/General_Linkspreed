@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement SiteSpace)
+- At the end of our development work on **SiteSpace**, we are proud to announce that registration with your Google account is now possible.
+
 ### 30.10.2022 (announcement Linklab)
 - We've run a few tests of **Linklab**'s implementations on other websites and are proud to confirm that all **Linklab**'s implementation offerings work flawlessly.
 
