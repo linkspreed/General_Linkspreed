@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.10.2022 (announcement IceCloud)
+- https://github.com/linkspreed/IceCloud/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 30.10.2022 (announcement IceCloud)
 - The launch of version 2.2.7 of **IceCloud** was successful! 🥳
 - The new update is live now :)
 - https://icecloud.cf 🔗
