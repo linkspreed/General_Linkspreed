@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.10.2022 (announcement IceCloud)
+- The launch of version 2.2.7 of **IceCloud** was successful! 🥳
+- The new update is live now :)
+- https://icecloud.cf 🔗
+
+### 30.10.2022 (announcement IceCloud)
 - We are now starting the launch of v2.2.7.
 
 ### 30.10.2022 (announcement IceCloud)
