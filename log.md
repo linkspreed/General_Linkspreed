@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.10.2022 (announcement ShareNode)
+- https://github.com/linkspreed/ShareNode/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 30.10.2022 (announcement ShareNode)
 - The launch of version 2.2.7 of **ShareNode** was successful! 🥳
 - The new update is live now :)
 - https://sharenode.tk 🔗
