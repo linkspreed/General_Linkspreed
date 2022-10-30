@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.10.2022 (announcement Web5)
+- We are now starting the launch of v2.2.7.
+
+### 30.10.2022 (announcement Web5)
 - The servers are now ready for the launch of version 2.2.7 for **Web5**.
 
 
