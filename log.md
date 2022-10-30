@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.10.2022 (announcement SiteSpace)
+- Google oAuth is now available on **SiteSpace**.
+- https://user-images.githubusercontent.com/102324985/198879407-2c9bb079-5718-43a9-8ee0-58659d2f6aa6.png
+
+### 30.10.2022 (announcement SiteSpace)
 - We're still working on **SiteSpace** a bit more.
 
 ### 29.10.2022 (announcement Gogola)
