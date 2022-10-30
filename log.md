@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.10.2022 (announcement Web5)
+- The launch of version 2.2.7 of **Web5** was successful! 🥳
+- The new update is live now :)
+- https://web5.cf 🔗
+
+### 30.10.2022 (announcement Web5)
 - We are now starting the launch of v2.2.7.
 
 ### 30.10.2022 (announcement Web5)
