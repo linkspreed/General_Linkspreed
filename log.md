@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement RealPin)
+- We finished working on the fundamental code of **RealPin**, but we are going to work on future updates.
+
 ### 30.10.2022 (announcement SiteSpace)
 - At the end of our development work on **SiteSpace**, we are proud to announce that registration with your Google account is now possible.
 
