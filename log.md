@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2022 (announcement SiteSpace)
+- We're still working on **SiteSpace** a bit more.
+
 ### 29.10.2022 (announcement Gogola)
 - **Gogola** now uses all Cloudflare technology for more security and better performance.
 
