@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 31.10.2022 (announcement)
+- Chatting for a Wasabi cooperation.
+- https://user-images.githubusercontent.com/102324985/199021348-92b65622-0467-42e7-a91f-5e91662f5b10.png
+
+### 31.10.2022 (announcement)
 - We're working on some new cloud features.
 
 ### 30.10.2022 (announcement Web5)
