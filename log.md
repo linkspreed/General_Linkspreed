@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 31.10.2022 (announcement Taya)
+- **Taya** gets a big update today - we are going to launch v3.2. 😍
+
+### 31.10.2022 (announcement Taya)
 - We're working on **Taya**.
 
 ### 31.10.2022 (announcement)
