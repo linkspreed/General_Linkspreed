@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.10.2022 (announcement)
+- We're working on some new cloud features.
+
 ### 30.10.2022 (announcement Web5)
 - https://github.com/linkspreed/Web5/blob/main/changelog.md
 - The entire changelog is now available on Github.
