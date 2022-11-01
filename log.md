@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.11.2022 (announcement Linkspreed)
+- **Linkspreed** now runs flawlessly with Cloudflare as the primary DNS provider.
+
+### 01.11.2022 (announcement Linkspreed)
 - We have now received the Cloudflare Startup packet for **Linkspreed**.
 
 ### 31.10.2022 (announcement Taya)
