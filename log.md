@@ -2,10 +2,13 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.11.2022 (announcement [clouds])
+- We're still working on our cloud solutions.
+
 ### 01.11.2022 (announcement Connected)
 - We are now officially starting the developments on Linkspreed's first decentralized social network.
 
-### 01.11.2022 (announcement)
+### 01.11.2022 (announcement [clouds])
 - We're working on our cloud solutions.
 
 ### 01.11.2022 (announcement ShareNode)
