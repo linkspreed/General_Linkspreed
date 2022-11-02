@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.11.2022 (announcement)
+- We worked on our cloud technology.
+
+### 02.11.2022 (announcement)
 - We're also experimenting with new codes.
 
 ### 02.11.2022 (announcement Linkspreed Photos)
