@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.11.2022 (announcement Petabyte)
+- We are very close to a new major update.
+
 ### 02.11.2022 (announcement UltiCloud)
 - We are very close to a new major update.
 
