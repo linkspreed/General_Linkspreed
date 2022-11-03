@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.11.2022 (announcement Linkspreed)
+- **Linkspreed** has now been able to achieve the absolute performance achievement.
+- **Linkspreed**'s performance is excellent and very good.
+
+### 03.11.2022 (announcement Linkspreed)
 - https://pagespeed.web.dev/report?url=https%3A%2F%2Flinkspreed.com
 
 ### 03.11.2022 (announcement)
