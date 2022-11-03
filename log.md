@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.11.2022 (announcement NetSky)
+- SkyNet ❌
+- ⬇️
+- **NetSky** ✔️
+
 ### 03.11.2022 (announcement Snoogie)
 - We're working on v26.0.0
 
