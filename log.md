@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.11.2022 (announcement Connected)
+- We worked on the backend of **Connected**.
+
+### 03.11.2022 (announcement Connected)
 - Let's keep working on **Connected*** - our decentralized social network!
 
 ### 02.11.2022 (announcement Connected)
