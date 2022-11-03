@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.11.2022 (announcement Biospreed)
+- We're working on v26.0.0
+
 ### 03.11.2022 (announcement Connected)
 - We've made huge leaps and a very good progress in the development of **Connected**.
 
