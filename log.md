@@ -16,10 +16,10 @@
 - We worked on the backend of **Connected**.
 
 ### 03.11.2022 (announcement Connected)
-- Let's keep working on **Connected*** - our decentralized social network!
+- Let's keep working on **Connected** - our decentralized social network!
 
 ### 02.11.2022 (announcement Connected)
-- Let's keep working on **Connected*** - our decentralized social network!
+- Let's keep working on **Connected** - our decentralized social network!
 
 ### 02.11.2022 (announcement)
 - We worked on our cloud technology.
