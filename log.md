@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.11.2022 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v26.0.0. 😍
+
 ### 04.11.2022 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
