@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.11.2022 (announcement Biospreed)
+-  https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 04.11.2022 (announcement Biospreed)
 - The launch of version 26.0.0 of **Biospreed** was successful! 🥳
 - The new update is live now :)
 - https://biospreed.tk 🔗
