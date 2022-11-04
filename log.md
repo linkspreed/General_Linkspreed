@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.11.2022 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 04.11.2022 (announcement Snoogie)
 - The launch of version 26.0.0 of **Snoogie** was successful! 🥳
 - The new update is live now :)
 - https://snoogie.tk 🔗
