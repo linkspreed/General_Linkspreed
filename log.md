@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.11.2022 (announcement Snoogie)
+- All new tools are now available. :D
+
 ### 04.11.2022 (announcement Biospreed)
 - All new tools are now available. :D
 
