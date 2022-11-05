@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.11.2022 (announcement Biospreed)
+- We've added these blocks to the collection for free today:
+    - Timeline
+    - Review
+    - Image Slider
+
 ### 05.11.2022 (announcement Snoogie)
 - We've added these blocks to the collection for free today:
     - Timeline
