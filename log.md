@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.11.2022 (announcement Snoogie)
+- We're publishing 3 new plugins now.
+
+### 05.11.2022 (announcement Snoogie)
 - The new Team plugin for v26.0.0 is now available.
 
 ### 05.11.2022 (announcement Biospreed)
