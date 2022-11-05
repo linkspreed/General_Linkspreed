@@ -3,16 +3,16 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.11.2022 (announcement Biospreed)
-- The three new plugins are now available.
+- The three new blocks are now available.
 
 ### 05.11.2022 (announcement Snoogie)
-- The three new plugins are now available.
+- The three new blocks are now available.
 
 ### 05.11.2022 (announcement Biospreed)
-- We're publishing 3 new plugins now.
+- We're publishing 3 new blocks now.
 
 ### 05.11.2022 (announcement Snoogie)
-- We're publishing 3 new plugins now.
+- We're publishing 3 new blocks now.
 
 ### 05.11.2022 (announcement Snoogie)
 - The new Team plugin for v26.0.0 is now available.
