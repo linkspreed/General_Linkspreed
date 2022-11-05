@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.11.2022 (announcement Connected)
+- https://user-images.githubusercontent.com/102324985/200129570-ef281c10-7689-4094-9d58-bc31bc3e8166.png
+
+### 05.11.2022 (announcement Connected)
 -**Connected** got a new logo/icon.
 - How do you find it?
 - https://connected.tk
