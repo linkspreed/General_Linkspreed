@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.11.2022 (announcement Connected)
+-**Connected** got a new logo/icon.
+- How do you find it?
+- https://connected.tk
+
 ### 04.11.2022 (announcement Snoogie)
 - All new tools are now available. :D
 
