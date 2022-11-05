@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.11.2022 (announcement Connected)
+- **Connected** has been successfully added to the Google Search Console.
+
+### 05.11.2022 (announcement Connected)
 - **Connected**'s CronJob is now active :D
 
 ### 05.11.2022 (announcement Connected)
