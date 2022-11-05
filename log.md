@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.11.2022 (announcement Biospreed)
+- The three new plugins are now available.
+
 ### 05.11.2022 (announcement Snoogie)
 - The three new plugins are now available.
 
