@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.11.2022 (announcement Connected)
+- We are now starting to integrate **Connected** into the decentralized network!!
+
+### 06.11.2022 (announcement Connected)
 - Sharing your location is now available remotely on **Connected**.
 
 ### 06.11.2022 (announcement Connected)
