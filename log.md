@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.11.2022 (announcement Connected)
+- We work on the front end of **Connected**.
+
 ### 06.11.2022 (announcement)
 - Soon we will start with the mass updates of our cloud services.
 
