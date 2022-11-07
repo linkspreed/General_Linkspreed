@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.11.2022 (announcement Connected)
+- https://user-images.githubusercontent.com/102324985/200413417-9d66ae4b-e175-4af0-8343-a5319b22f5f8.png
+
 ### 07.11.2022 (announcement Connected, NetSky)
 - Currently pending completion, **Connected** and **NetSky** are the higher priorities.
 
