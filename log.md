@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.11.2022 (announcement NetSky)
+- We continue to develop on **NetSky** ...🚀
+
 ### 06.11.2022 (announcement NetSky)
 - Developments on **NetSky** continue.
 
