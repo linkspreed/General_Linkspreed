@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.11.2022 (announcement NetSky)
+- The developments on **NetSky** are progressing rapidly!
+
+### 08.11.2022 (announcement NetSky)
 - We continue to work on **NetSky**.
 
 ### 07.11.2022 (announcement Connected)
