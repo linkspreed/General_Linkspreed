@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.11.2022 (announcement NetSky)
+- https://user-images.githubusercontent.com/102324985/200671945-ab2bb34d-fa59-48d1-bd90-f2ad28718765.png
+
+### 08.11.2022 (announcement NetSky)
 - Registration via Google is now possible on **NetSky**.
 
 ### 08.11.2022 (announcement NetSky)
