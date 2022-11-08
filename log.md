@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.11.2022 (announcement NetSky)
+- We are now adding to **NetSky** the ability to conveniently register and log in with Google.
+
+### 08.11.2022 (announcement NetSky)
 - The developments on **NetSky** are progressing rapidly!
 
 ### 08.11.2022 (announcement NetSky)
