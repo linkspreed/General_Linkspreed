@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.11.2022 (announcement Connected)
+- We are experimenting with NodeJS on **Connected** for 80% more stability.
+
+### 09.11.2022 (announcement Connected)
 - We are now continuing to work on **Connected** - Let's go!
 
 ### 09.11.2022 (announcement)
