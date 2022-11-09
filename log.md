@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.11.2022 (announcement)
+- https://discord.gg/AcUAMKextC
+
+### 09.11.2022 (announcement)
 - We're creating a discord server for our community now.
 
 ### 08.11.2022 (announcement NetSky)
