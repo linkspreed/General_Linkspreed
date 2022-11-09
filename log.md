@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.11.2022 (announcement)
+- We're creating a discord server for our community now.
+
 ### 08.11.2022 (announcement NetSky)
 - https://user-images.githubusercontent.com/102324985/200671945-ab2bb34d-fa59-48d1-bd90-f2ad28718765.png
 
