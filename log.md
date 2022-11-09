@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.11.2022 (announcement NetSky)
+- **NetSky** is now using Cloudflare's technology :D
+
+### 09.11.2022 (announcement NetSky)
 - We've added **NetSky** to our status page.
 
 ### 09.11.2022 (announcement Connected)
