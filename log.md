@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.11.2022 (announcement)
+- Still in development yet - Discord API
+- https://user-images.githubusercontent.com/102324985/201189262-a67a1350-f239-453f-8f5e-fd72926d3472.png
+
+### 10.11.2022 (announcement)
 - Let's take a closer look at the Discord Login API. 😉
 
 ### 10.11.2022 (announcement Connected)
