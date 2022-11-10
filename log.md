@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.11.2022 (announcement Connected)
+- It continues with the development of Connected and the test developments of NodeJS integrations into the code.
+
 ### 10.11.2022 (announcement LaaS)
 - Development on LaaS has officially started and has had a great start!
 
