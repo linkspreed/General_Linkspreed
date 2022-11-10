@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.11.2022 (announcement LaaS)
+- We continue to work on LaaS.
+
+### 10.11.2022 (announcement LaaS)
 - We continued to work on **LaaS**.
 
 ### 09.11.2022 (announcement NetSky)
