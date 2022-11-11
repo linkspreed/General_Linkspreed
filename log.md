@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.11.2022 (announcement Metabox)
+- The new update will be available soon!
+
 ### 11.11.2022 (announcement Petabyte)
 - The new update will be available soon!
 
