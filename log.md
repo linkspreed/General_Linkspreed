@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.11.2022 (announcement Biospreed)
+- It is now possible to register on #Biospreed with Discord. 🚀
+
+### 11.11.2022 (announcement Biospreed)
 - We are currently working on enabling you to register on **Biospreed** with your Google account in the future.
 
 ### 11.11.2022 (announcement Biospreed)
