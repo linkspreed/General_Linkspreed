@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.11.2022 (announcement Biospreed)
+- https://user-images.githubusercontent.com/102324985/201408992-1dbe2741-8461-417f-a89a-ec186b450114.png
+
 ### 11.11.2022 (announcement Metabox)
 - The new update will be available soon!
 
