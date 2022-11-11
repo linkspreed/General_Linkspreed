@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.11.2022 (announcement Linkspreed Photos)
+- We have negotiations with Cloudflare - then we will release the new update!
+
 ### 11.11.2022 (announcement Linkspreed Drive)
 - We have negotiations with Cloudflare - then we will release the new update!
 
