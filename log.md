@@ -6,7 +6,7 @@
 - We have a wonderful idea for a new platform and are planning it :D
 
 ### 12.11.2022 (announcement Connected)
-- We continue to develop Connected :D
+- We continue to develop **Connected** :D
 
 ### 12.11.2022 (announcement NetSky)
 - We continued working on **NetSky**!
