@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.11.2022 (announcement NetSky)
+- A little more work on the **NetSky** landing page. 😉🧡
+
 ### 12.11.2022 (announcement)
 - We have a wonderful idea for a new platform and are planning it :D
 
