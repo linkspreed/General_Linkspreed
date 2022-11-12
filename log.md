@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.11.2022 (announcement NetSky)
+- We continued working on **NetSky**!
+
 ### 11.11.2022 (announcement Connected)
 - We keep working on **Connected**!
 
