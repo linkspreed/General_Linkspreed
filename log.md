@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.11.2022 (announcement)
+- https://user-images.githubusercontent.com/102324985/201540343-032cd07c-7a66-451e-8d15-de88ecd6b9ef.png
+
+### 13.11.2022 (announcement)
 - This is the #1000 pull request on Github 🧡
 
 ### 13.11.2022 (announcement NetSky)
