@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.11.2022 (announcement Connected)
+- Read through the small instructions during registration on how data is saved at Connected!
+- https://user-images.githubusercontent.com/102324985/201542669-67fb8c2a-5d50-48b5-9de6-d8a4b998a2af.png
+- https://user-images.githubusercontent.com/102324985/201542681-52a57cb8-3ccd-49b7-bc98-9d767b304488.png
+- https://user-images.githubusercontent.com/102324985/201542704-e4de4e28-ef55-4a43-9c54-b3e661c0a349.png
+- https://user-images.githubusercontent.com/102324985/201542749-7428bbd4-2fee-48db-a946-30bda0c1042f.png
+- https://user-images.githubusercontent.com/102324985/201542766-179ce51a-9b27-4d89-94e7-9001d347fa76.png
+
 ### 13.11.2022 (announcement LaaS)
 - In addition to LaaS, we are also working on the official documentation for Linkspreed-as-a-Service!
 
