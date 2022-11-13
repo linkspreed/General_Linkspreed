@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.11.2022 (announcement)
+- This is the #1000 pull request on Github 🧡
+
 ### 13.11.2022 (announcement NetSky)
 - A little more work on the **NetSky** landing page. 😉🧡
 
