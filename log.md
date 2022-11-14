@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.11.2022 (announcement NetSky)
+- A little more work on the **NetSky** landing page.
+
 ### 13.11.2022 (announcement Connected)
 - Read through the small instructions during registration on how data is saved at Connected!
 - https://user-images.githubusercontent.com/102324985/201542669-67fb8c2a-5d50-48b5-9de6-d8a4b998a2af.png
