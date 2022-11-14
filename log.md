@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.11.2022 (announcement Voiceclub)
+- Let's see what we can build on **Voiceclub** in the future? 🤔 
+
+
 ### 14.11.2022 (announcement NetSky)
 - A little more work on the **NetSky** landing page.
 
