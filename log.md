@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 13.11.2022 (announcement NetSky)
+### 14.11.2022 (announcement NetSky)
 - A little more work on the **NetSky** landing page.
 
 ### 13.11.2022 (announcement Connected)
