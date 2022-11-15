@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.11.2022 (announcement LaaS)
+- We are now adding **LaaS** to Cloudflare technology.
+- Just the landing page. ;)
+
 ### 15.11.2022 (announcement LinkLab)
 - In the next update of **LinkLab** we will introduce the animated banners! 😍
 
