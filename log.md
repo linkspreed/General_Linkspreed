@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.11.2022 (announcement Snoogie)
+- We are working on many new updates - also on an update for **Snoogie** :D
+
 ### 14.11.2022 (announcement)
 - We're working on many new updates!
 
