@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.11.2022 (announcement LaaS)
+- We have now added the **LaaS** landing page to our status page as well!
+
+### 15.11.2022 (announcement LaaS)
 - We're creating a cool logo/icon for **LaaS**.
 
 ### 15.11.2022 (announcement)
