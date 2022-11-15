@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.11.2022 (announcement LaaS)
+- We're creating a cool logo/icon for **LaaS**.
+
 ### 15.11.2022 (announcement)
 - Check DNS entries from global locations with a super simple DNS checker tool from Linkspreed! 🧡
 - Is in development and coming soon! ☁️
