@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.11.2022 (announcement DNServer)
+- Just a quick BETA screenshot of **DNServer** from **Linkspreed**!
+- https://user-images.githubusercontent.com/102324985/202206467-1a982d3b-2dca-41db-89e0-656d435f5416.png
+
 ### 16.11.2022 (announcement LaaS)
 - https://user-images.githubusercontent.com/102324985/202192296-e08ce379-abe0-4600-a9be-32e2143a1b7c.png
 - The new logo for **LaaS**.
