@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.11.2022 (announcement LaaS)
+- https://user-images.githubusercontent.com/102324985/202192296-e08ce379-abe0-4600-a9be-32e2143a1b7c.png
+- The new logo for **LaaS**.
+
 ### 15.11.2022 (announcement LaaS)
 - We are now adding **LaaS** to Cloudflare technology.
 - Just the landing page. ;)
