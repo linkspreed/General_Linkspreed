@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.11.2022 (announcement Linkspreed)
+- That's the new, default cover for all **Linkspreed** profiles, that didn't upload any custom cover.
+- You can always change it!
+- https://user-images.githubusercontent.com/102324985/202388707-d238bc95-9617-47d2-8f77-82f23d4d2c7f.png
+
+### 16.11.2022 (announcement Linkspreed)
 - We're changing the default cover for **Linkspreed**. 
 
 ### 16.11.2022 (announcement connected)
