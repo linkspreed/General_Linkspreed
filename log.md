@@ -5,26 +5,26 @@
 ### 17.11.2022 (announcement LaaS)
 - We're creating the first three and general Github repositories for **LaaS**.
 
-### 16.11.2022 (announcement DNServer)
+### 17.11.2022 (announcement DNServer)
 - Still working on some bugs.
 
-### 16.11.2022 (announcement DNServer)
+### 17.11.2022 (announcement DNServer)
 - We're currently working on **DNServer**.
 
-### 16.11.2022 (announcement Connected)
+### 17.11.2022 (announcement Connected)
 - That's the new, default cover for all **Connected** profiles, that didn't upload any custom cover.
 - You can always change it!
 - https://user-images.githubusercontent.com/102324985/202388707-d238bc95-9617-47d2-8f77-82f23d4d2c7f.png
 
-### 16.11.2022 (announcement Linkspreed)
+### 17.11.2022 (announcement Linkspreed)
 - That's the new, default cover for all **Linkspreed** profiles, that didn't upload any custom cover.
 - You can always change it!
 - https://user-images.githubusercontent.com/102324985/202388707-d238bc95-9617-47d2-8f77-82f23d4d2c7f.png
 
-### 16.11.2022 (announcement Linkspreed)
+### 17.11.2022 (announcement Linkspreed)
 - We're changing the default cover for **Linkspreed**. 
 
-### 16.11.2022 (announcement connected)
+### 17.11.2022 (announcement connected)
 - We're changing the default cover for **Connected**. 
 
 ### 16.11.2022 (announcement DNServer)
