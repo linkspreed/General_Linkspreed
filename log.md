@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.11.2022 (announcement LaaS)
+- We're gonna building a fleet of VPN solutions in the future. :D
+
 ### 17.11.2022 (announcement)
 - Still getting more domains...
 
