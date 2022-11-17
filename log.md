@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.11.2022 (announcement connected)
+- We're changing the default cover for **Connected**. 
+
 ### 16.11.2022 (announcement DNServer)
 - We're working on **DNServer** ...
 
