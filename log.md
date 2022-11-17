@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.11.2022 (announcement DNServer)
+- We're currently working on **DNServer**.
+
 ### 16.11.2022 (announcement Connected)
 - That's the new, default cover for all **Connected** profiles, that didn't upload any custom cover.
 - You can always change it!
