@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.11.2022 (announcement Kisk)
+- We work on **Kisk**.
+
 ### 18.11.2022 (announcement)
 We keep working on **BeSave**! 😍
 
