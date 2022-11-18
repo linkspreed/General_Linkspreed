@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.11.2022 (announcement)
+We keep working on **BeSave**! 😍
+
+### 18.11.2022 (announcement)
 - Still getting more domains...
 
 ### 17.11.2022 (announcement LaaS)
