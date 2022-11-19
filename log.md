@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+###  19.11.2022 (announcement Kisk)
+- https://github.com/linkspreed/Kisk/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
 ### 19.11.2022 (announcement Kisk)
 - The launch of version 4.5 of **Kisk** was successful! 🥳
 - The new update is live now :)
