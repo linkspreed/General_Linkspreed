@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.11.2022 (announcement Kisk)
+- https://github.com/linkspreed/Kisk
+
 ### 18.11.2022 (announcement Kisk)
 - We work on **Kisk**.
 
