@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.11.2022 (announcement Linkspreed)
+- Doing some minor language string modifications.
+
 ###  19.11.2022 (announcement Kisk)
 - https://user-images.githubusercontent.com/102324985/202863674-eac83cc8-6b31-48a9-ad0a-8dbccde153bd.png
 
