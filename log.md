@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+###  20.11.2022 (announcement)
+- We're working on some new updates!
+
 ### 19.11.2022 (announcement Linkspreed)
 - https://user-images.githubusercontent.com/102324985/202864996-4f173ab1-17dd-4cd5-85c1-79da6780464d.png
 
