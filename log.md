@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.12.2022 (announcement Plop)
+- We keep working on **Plop** :D
+
 ### 05.12.2022 (announcement Wrap)
 - The Free & Unlimited plan for **Wrap** is finally here! 🥳
 - https://user-images.githubusercontent.com/102324985/205734767-97653c55-faa2-49c0-aef2-bf44ad16c534.png
