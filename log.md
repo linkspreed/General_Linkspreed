@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.12.2022 (announcement BeSave)
+- The new **BeSave** logo. :D
+- https://user-images.githubusercontent.com/102324985/206019919-11ff6565-d9c5-46b3-8e6f-1159df9725d5.png
+
+### 06.12.2022 (announcement BeSave)
 - Let's work on **BeSave**.📱
 
 ### 06.12.2022 (announcement Plop)
