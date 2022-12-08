@@ -6,7 +6,7 @@
 - We've added **Cloudspreed** completely to Cloudflare!
 
 ### 08.12.2022 (announcement Cloudspreed)
-- Now we're working on Cloudspreed! 💚☁️
+- Now we're working on **Cloudspreed**! 💚☁️
 
 ### 08.12.2022 (announcement)
 - A bunch of new updates are on their way! 🚀
