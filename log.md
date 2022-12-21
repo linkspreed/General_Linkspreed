@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.12.2022 (announcement Datify)
+- The launch of version 1.7.0 of **Datify** was successful! 🥳
+- The new update is live now :)
+- https://datify.cf 🔗
+
+### 21.12.2022 (announcement Datify)
 - We are now starting the launch of v1.7.0.
 
 ### 21.12.2022 (announcement Datify)
