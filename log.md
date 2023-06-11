@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2023 (announcement Cloud2Share)
+- 📢 Great news! We just added Cloud2Share to our subdomain system! 🔍 Visit our new URL https://cloud2share.linkspreed.com instead of https://cloud2share.tk 🌩️ No worries, you can still use it as before, with all your data. Any questions? 😀 #Cloud2Share #Linkspreed #TechChange
+
 ### 11.06.2023 (announcement Cloudspreed)
 - 🎉 Big news! We've added #Cloudspreed to our subdomain system! 👏 Don't worry, the platform remains the same - you can continue using it with all existing data. 👍 Check it out at https://cloudspreed.linkspreed.com. Any questions or feedback? Let us know in the comments! #techupdate 💻
 
