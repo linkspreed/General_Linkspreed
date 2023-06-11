@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2023 (announcement Cloudspreed)
+- 🎉 Big news! We've added #Cloudspreed to our subdomain system! 👏 Don't worry, the platform remains the same - you can continue using it with all existing data. 👍 Check it out at https://cloudspreed.linkspreed.com. Any questions or feedback? Let us know in the comments! #techupdate 💻
+
 ### 11.06.2023 (announcement Cloud2Go)
 - 🚨 Exciting news! 🚨 We've just added Cloud2Go to our subdomain system! 🔥🌩️ 👉 https://cloud2go.tk now redirects to https://cloud2go.linkspreed.com, but don't worry, everything remains the same on the front-end! 😎 Have you checked it out yet? #Cloud2Go #Linkspreed #Technology 🔧🤖
 
