@@ -3,6 +3,8 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.06.2023 (announcement)
+- 🚀📈 We're excited to announce that we're working on expanding @Linkspreed's business model! 💼🌍 What new markets do you think we should explore? #expansion #businessgrowth #ideas
+
 
 
 
