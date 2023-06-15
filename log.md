@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.06.2023 (announcement)
+- 👨‍💻👩‍💻🔨🚀 We're currently working hard on updates and new software to make your user experience even better! What features would you like to see in our upcoming releases? #softwaredevelopment #updates #userexperience 💻📈
+
 ### 14.06.2023 (announcement)
 - 🚀 We're currently working on many exciting new projects! 💡 From innovative tech solutions to eco-friendly initiatives, we're always striving to make a positive impact. Which project are you most excited to hear about? 🤔 #NewBeginnings #PositiveChange #Innovation
 
@@ -10,10 +13,6 @@
 
 ### 13.06.2023 (announcement)
 - 🚀📈 We're excited to announce that we're working on expanding @Linkspreed's business model! 💼🌍 What new markets do you think we should explore? #expansion #businessgrowth #ideas
-
-
-
-
 
 ### 13.06.2023 (announcement Gogola)
 - 🎉Exciting news! 🎊We've just added Gogola to our Subdomain system! 🔗https://gogola.ml will now redirect you to 🔗https://gogola.linkspreed.com. Don't worry, everything stays the same for you, just a technical change in the background. Have you already tried it out? #Gogola #Subdomains #Linkspreed 💻📱
