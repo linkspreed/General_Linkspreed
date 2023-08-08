@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.08.2023 (announcement L2B - Slush)
+- 📢 We've made great progress on our second L2B demo called Slush and we're confident that it'll be up and running online tomorrow! 🚀💻 Stay tuned for the exciting launch! Any guesses on what features you think Slush will have? Share your thoughts below! 👇 #L2B #Demo #ComingSoon
+
 ### 08.08.2023 (announcement L2B)
 - 📣 Exciting news! We have made a decision regarding the L2B Subdomain System. 🎉 Now, with our L2B product called xyz, you can access it through the link: https://l2b.linkspreed.com/xyz. But wait, there's more! 🌟 For technical advantages, we will be redirecting users to a more advantageous URL: https://l2b-xyz.linkspreed.com. Don't worry, this change won't affect functionality. 🚀 What do you think about this upgrade? Share your thoughts! 💭 #L2B #Upgrade #Linkspreed
 - https://github.com/linkspreed/log/assets/102324985/cd7af5aa-8183-4847-8907-bee450ed33bc
