@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 09.08.2023 (announcement Linkspreed Apps)
+### 10.08.2023 (announcement Linkspreed Apps)
 - 🚀 We're making progress on our website where you'll soon be able to download our amazing apps! 📲 Stay tuned for updates! 🌟 #AppDevelopment #ComingSoon
 
 ### 09.08.2023 (announcement Linkspreed Reality)
