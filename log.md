@@ -1,6 +1,6 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...
+## All changes that we will make from 12.07.2022 will appear here ... 
 
 ### 15.09.2023 (announcement)
 - 🌟 Hey there! Exciting update! 🚀 We're currently working on a bunch of awesome new projects that are taking shape! 😎 Stay tuned for some mind-blowing surprises coming your way. What are your thoughts on exploring new frontiers? 🌍 Let us know! #ProjectBuzz #NewBeginnings
