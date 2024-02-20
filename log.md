@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.02.2024 (announcement)
+- 🚀 Curious about how we're revolutionizing political engagement? We're brainstorming ways to make #Linkspeed accessible to politicians! 💡 Join the conversation and share your thoughts! 🗣️ #Politics #Innovation
+
 ### 19.02.2024 (announcement Docs)
 - 📚 Exciting news! We're currently working on a comprehensive Knowledge Base where you can find all the documentation and helpful resources you need. Stay tuned for updates! 💡 #KnowledgeBase #Documentation #HelpfulTips
 
