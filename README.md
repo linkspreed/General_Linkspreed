@@ -2,7 +2,7 @@
 
 Here you will find all the important information about Linkspreed 🧡 as a global collection of social networks, tools, cloud solutions and much more, designed to help humanity shape the future. 
 
-## **[LOG 🧡](https://github.com/linkspreed/General_Linkspreed/blob/main/log.md)** **Check out the full Log of all platforms Linkspreed is owning :)**
+## **[LOG 🧡](https://github.com/linkspreed/General_Linkspreed/blob/main/log.md)** **[LOG2 🧡](https://github.com/linkspreed/General_Linkspreed/blob/main/log2.md)** **Check out the full Log of all platforms Linkspreed is owning :)**
 
 <div align="center" width="50">
 
