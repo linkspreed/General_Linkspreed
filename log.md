@@ -9517,6 +9517,9 @@ Over the next few days, we'll be making additional official announcements about 
 - Version 1.3.4 of **Lime** will be released today!
 
 ### 03.01.2023 (announcement Lime)
+- Version 1.3.4 of **Lime** will be released today!
+
+### 03.01.2023 (announcement Lime)
 - We're currently working on **Lime**. 🍋
 
 ### 03.01.2023 (announcement Plop)
