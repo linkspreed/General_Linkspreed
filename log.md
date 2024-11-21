@@ -13058,6 +13058,9 @@ Many new projects in progress.
 - Let's work a little more on the new platform.
 
 ### 05.09.2022 (announcement Podhub)
+- **Podhub** got a new background image on the landing page.
+
+### 05.09.2022 (announcement Podhub)
 - We're working a bit on **Podhub** now and see how we can improve the platform :D
 
 ### 05.09.2022 (announcement Linkspreed)
